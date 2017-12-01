@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractVersionConstraintTest.php" server="kristabice.com//public_html/DGM3760/" local="131563719073511037" remote="131565037800000000" Dst="1" />
+<file name="AndVersionConstraintGroupTest.php" server="kristabice.com//public_html/DGM3760/" local="131563719073521061" remote="131565037800000000" Dst="1" />
+<file name="AnyVersionConstraintTest.php" server="kristabice.com//public_html/DGM3760/" local="131563719073521061" remote="131565037800000000" Dst="1" />
+<file name="GreaterThanOrEqualToVersionConstraintTest.php" server="kristabice.com//public_html/DGM3760/" local="131563719073531090" remote="131565037800000000" Dst="1" />
+<file name="OrVersionConstraintGroupTest.php" server="kristabice.com//public_html/DGM3760/" local="131563719073531090" remote="131565037800000000" Dst="1" />
+<file name="ExactVersionConstraintTest.php" server="kristabice.com//public_html/DGM3760/" local="131563719073521061" remote="131565037800000000" Dst="1" />
+<file name="SpecificMajorAndMinorVersionConstraintTest.php" server="kristabice.com//public_html/DGM3760/" local="131563719073541119" remote="131565037800000000" Dst="1" />
+<file name="SpecificMajorVersionConstraintTest.php" server="kristabice.com//public_html/DGM3760/" local="131563719073541119" remote="131565037800000000" Dst="1" />
+<file name="VersionTest.php" server="kristabice.com//public_html/DGM3760/" local="131563719073541119" remote="131565037800000000" Dst="1" />
+</dwsync>

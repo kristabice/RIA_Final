@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CompositeExpectation.php" server="kristabice.com//public_html/DGM3760/" local="131563719574493357" remote="131565036600000000" Dst="1" />
+<file name="Configuration.php" server="kristabice.com//public_html/DGM3760/" local="131563719574498374" remote="131565036600000000" Dst="1" />
+<file name="Container.php" server="kristabice.com//public_html/DGM3760/" local="131563719574503376" remote="131565036600000000" Dst="1" />
+<file name="ExpectationDirector.php" server="kristabice.com//public_html/DGM3760/" local="131563719574563546" remote="131565036600000000" Dst="1" />
+<file name="Exception.php" server="kristabice.com//public_html/DGM3760/" local="131563719574528452" remote="131565036600000000" Dst="1" />
+<file name="Expectation.php" server="kristabice.com//public_html/DGM3760/" local="131563719574558534" remote="131565036600000000" Dst="1" />
+<file name="ExpectationInterface.php" server="kristabice.com//public_html/DGM3760/" local="131563719574563546" remote="131565036600000000" Dst="1" />
+<file name="ExpectsHigherOrderMessage.php" server="kristabice.com//public_html/DGM3760/" local="131563719574568558" remote="131565036600000000" Dst="1" />
+<file name="HigherOrderMessage.php" server="kristabice.com//public_html/DGM3760/" local="131563719574673857" remote="131565037200000000" Dst="1" />
+<file name="Instantiator.php" server="kristabice.com//public_html/DGM3760/" local="131563719574673857" remote="131565037200000000" Dst="1" />
+<file name="MethodCall.php" server="kristabice.com//public_html/DGM3760/" local="131563719574764100" remote="131565037200000000" Dst="1" />
+<file name="MockInterface.php" server="kristabice.com//public_html/DGM3760/" local="131563719574774129" remote="131565037200000000" Dst="1" />
+<file name="ReceivedMethodCalls.php" server="kristabice.com//public_html/DGM3760/" local="131563719574774129" remote="131565037200000000" Dst="1" />
+<file name="Mock.php" server="kristabice.com//public_html/DGM3760/" local="131563719574764100" remote="131565037200000000" Dst="1" />
+<file name="Undefined.php" server="kristabice.com//public_html/DGM3760/" local="131563719574774129" remote="131565037200000000" Dst="1" />
+<file name="VerificationDirector.php" server="kristabice.com//public_html/DGM3760/" local="131563719574784153" remote="131565037200000000" Dst="1" />
+<file name="VerificationExpectation.php" server="kristabice.com//public_html/DGM3760/" local="131563719574784153" remote="131565037200000000" Dst="1" />
+</dwsync>

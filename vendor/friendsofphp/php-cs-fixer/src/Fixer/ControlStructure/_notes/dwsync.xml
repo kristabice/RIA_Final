@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ElseifFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108428143" remote="131565034200000000" Dst="1" />
+<file name="IncludeFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108433175" remote="131565034200000000" Dst="1" />
+<file name="NoBreakCommentFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108438187" remote="131565034200000000" Dst="1" />
+<file name="NoSuperfluousElseifFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108443199" remote="131565034200000000" Dst="1" />
+<file name="NoUnneededControlParenthesesFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108453229" remote="131565034200000000" Dst="1" />
+<file name="NoTrailingCommaInListCallFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108448217" remote="131565034200000000" Dst="1" />
+<file name="NoUnneededCurlyBracesFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108453229" remote="131565034200000000" Dst="1" />
+<file name="NoUselessElseFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108458241" remote="131565034200000000" Dst="1" />
+<file name="SwitchCaseSpaceFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108468265" remote="131565034800000000" Dst="1" />
+<file name="SwitchCaseSemicolonToColonFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108463253" remote="131565034800000000" Dst="1" />
+<file name="YodaStyleFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108473282" remote="131565034800000000" Dst="1" />
+</dwsync>

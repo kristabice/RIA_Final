@@ -1,0 +1,25 @@
+
+$font-stack: 'Montserrat', sans-serif;
+$heavy-font: 700;
+$normal-font: 400;
+$padding: 2%;
+
+// colors
+
+$apple: #447314;
+$main-color: #000;
+$secondary-color: #999;
+$accent-color: rgb(100,203,114);
+$emerald: #64cb72;
+
+
+
+
+@mixin responsive($brpoint) {
+    @if $brpoint == tabletM {
+        @media only screen and (min-width: 600px)  { @content ; }
+    }
+    @else if $brpoint == laptopM {
+        @media only screen and (min-width: 960px)  { @content ; }
+    }
+}

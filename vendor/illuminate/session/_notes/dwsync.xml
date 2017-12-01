@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CacheBasedSessionHandler.php" server="kristabice.com//public_html/DGM3760/" local="131550977005600769" remote="131565036600000000" Dst="1" />
+<file name="composer.json" server="kristabice.com//public_html/DGM3760/" local="131550977008911212" remote="131565036600000000" Dst="1" />
+<file name="CookieSessionHandler.php" server="kristabice.com//public_html/DGM3760/" local="131550977005941270" remote="131565036600000000" Dst="1" />
+<file name="DatabaseSessionHandler.php" server="kristabice.com//public_html/DGM3760/" local="131550977005990790" remote="131565036600000000" Dst="1" />
+<file name="EncryptedStore.php" server="kristabice.com//public_html/DGM3760/" local="131550977006051260" remote="131565036600000000" Dst="1" />
+<file name="ExistenceAwareInterface.php" server="kristabice.com//public_html/DGM3760/" local="131550977006091237" remote="131565036600000000" Dst="1" />
+<file name="FileSessionHandler.php" server="kristabice.com//public_html/DGM3760/" local="131550977006361324" remote="131565036600000000" Dst="1" />
+<file name="SessionManager.php" server="kristabice.com//public_html/DGM3760/" local="131550977007891336" remote="131565036600000000" Dst="1" />
+<file name="SessionServiceProvider.php" server="kristabice.com//public_html/DGM3760/" local="131550977008350921" remote="131565036600000000" Dst="1" />
+<file name="Store.php" server="kristabice.com//public_html/DGM3760/" local="131550977008810936" remote="131565036600000000" Dst="1" />
+<file name="TokenMismatchException.php" server="kristabice.com//public_html/DGM3760/" local="131550977008850951" remote="131565036600000000" Dst="1" />
+</dwsync>

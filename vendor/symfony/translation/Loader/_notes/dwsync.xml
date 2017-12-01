@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ArrayLoader.php" server="kristabice.com//public_html/DGM3760/" local="131550976819384576" remote="131565043200000000" Dst="1" />
+<file name="CsvFileLoader.php" server="kristabice.com//public_html/DGM3760/" local="131550976819434662" remote="131565043200000000" Dst="1" />
+<file name="FileLoader.php" server="kristabice.com//public_html/DGM3760/" local="131550976819494693" remote="131565043200000000" Dst="1" />
+<file name="IcuResFileLoader.php" server="kristabice.com//public_html/DGM3760/" local="131550976820432265" remote="131565043200000000" Dst="1" />
+<file name="IcuDatFileLoader.php" server="kristabice.com//public_html/DGM3760/" local="131550976819932224" remote="131565043200000000" Dst="1" />
+<file name="JsonFileLoader.php" server="kristabice.com//public_html/DGM3760/" local="131550976820521795" remote="131565043200000000" Dst="1" />
+<file name="IniFileLoader.php" server="kristabice.com//public_html/DGM3760/" local="131550976820471801" remote="131565043200000000" Dst="1" />
+<file name="LoaderInterface.php" server="kristabice.com//public_html/DGM3760/" local="131550976820742274" remote="131565043200000000" Dst="1" />
+<file name="MoFileLoader.php" server="kristabice.com//public_html/DGM3760/" local="131550976820792283" remote="131565043200000000" Dst="1" />
+<file name="PhpFileLoader.php" server="kristabice.com//public_html/DGM3760/" local="131550976821141824" remote="131565043200000000" Dst="1" />
+<file name="QtFileLoader.php" server="kristabice.com//public_html/DGM3760/" local="131550976821821863" remote="131565043200000000" Dst="1" />
+<file name="PoFileLoader.php" server="kristabice.com//public_html/DGM3760/" local="131550976821191817" remote="131565043200000000" Dst="1" />
+<file name="XliffFileLoader.php" server="kristabice.com//public_html/DGM3760/" local="131550976822411947" remote="131565043200000000" Dst="1" />
+<file name="YamlFileLoader.php" server="kristabice.com//public_html/DGM3760/" local="131550976822861960" remote="131565043200000000" Dst="1" />
+</dwsync>

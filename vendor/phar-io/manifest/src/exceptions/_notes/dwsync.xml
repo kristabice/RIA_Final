@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Exception.php" server="kristabice.com//public_html/DGM3760/" local="131563719085653433" remote="131565037800000000" Dst="1" />
+<file name="InvalidApplicationNameException.php" server="kristabice.com//public_html/DGM3760/" local="131563719085663462" remote="131565037800000000" Dst="1" />
+<file name="InvalidEmailException.php" server="kristabice.com//public_html/DGM3760/" local="131563719085663462" remote="131565037800000000" Dst="1" />
+<file name="InvalidUrlException.php" server="kristabice.com//public_html/DGM3760/" local="131563719085663462" remote="131565037800000000" Dst="1" />
+<file name="ManifestElementException.php" server="kristabice.com//public_html/DGM3760/" local="131563719085673481" remote="131565037800000000" Dst="1" />
+<file name="ManifestDocumentException.php" server="kristabice.com//public_html/DGM3760/" local="131563719085673481" remote="131565037800000000" Dst="1" />
+<file name="ManifestDocumentMapperException.php" server="kristabice.com//public_html/DGM3760/" local="131563719085673481" remote="131565037800000000" Dst="1" />
+<file name="ManifestLoaderException.php" server="kristabice.com//public_html/DGM3760/" local="131563719085683510" remote="131565037800000000" Dst="1" />
+</dwsync>

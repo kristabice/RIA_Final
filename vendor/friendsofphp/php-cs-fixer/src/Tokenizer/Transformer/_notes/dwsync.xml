@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ArrayTypehintTransformer.php" server="kristabice.com//public_html/DGM3760/" local="131563720110142756" remote="131565034800000000" Dst="1" />
+<file name="BraceClassInstantiationTransformer.php" server="kristabice.com//public_html/DGM3760/" local="131563720110142756" remote="131565034800000000" Dst="1" />
+<file name="ClassConstantTransformer.php" server="kristabice.com//public_html/DGM3760/" local="131563720110152791" remote="131565034800000000" Dst="1" />
+<file name="ImportTransformer.php" server="kristabice.com//public_html/DGM3760/" local="131563720110162815" remote="131565034800000000" Dst="1" />
+<file name="NamespaceOperatorTransformer.php" server="kristabice.com//public_html/DGM3760/" local="131563720110162815" remote="131565034800000000" Dst="1" />
+<file name="CurlyBraceTransformer.php" server="kristabice.com//public_html/DGM3760/" local="131563720110152791" remote="131565034800000000" Dst="1" />
+<file name="NullableTypeTransformer.php" server="kristabice.com//public_html/DGM3760/" local="131563720110162815" remote="131565034800000000" Dst="1" />
+<file name="ReturnRefTransformer.php" server="kristabice.com//public_html/DGM3760/" local="131563720110172844" remote="131565034800000000" Dst="1" />
+<file name="SquareBraceTransformer.php" server="kristabice.com//public_html/DGM3760/" local="131563720110172844" remote="131565034800000000" Dst="1" />
+<file name="TypeColonTransformer.php" server="kristabice.com//public_html/DGM3760/" local="131563720110182868" remote="131565034800000000" Dst="1" />
+<file name="UseTransformer.php" server="kristabice.com//public_html/DGM3760/" local="131563720110182868" remote="131565034800000000" Dst="1" />
+<file name="TypeAlternationTransformer.php" server="kristabice.com//public_html/DGM3760/" local="131563720110172844" remote="131565034800000000" Dst="1" />
+<file name="WhitespacyCommentTransformer.php" server="kristabice.com//public_html/DGM3760/" local="131563720110192897" remote="131565034800000000" Dst="1" />
+</dwsync>

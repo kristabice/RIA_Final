@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CustomFilterIteratorTest.php" server="kristabice.com//public_html/DGM3760/" local="131550976991032998" remote="131565042600000000" Dst="1" />
+<file name="DateRangeFilterIteratorTest.php" server="kristabice.com//public_html/DGM3760/" local="131550976991473467" remote="131565042600000000" Dst="1" />
+<file name="DepthRangeFilterIteratorTest.php" server="kristabice.com//public_html/DGM3760/" local="131550976991533493" remote="131565042600000000" Dst="1" />
+<file name="FilecontentFilterIteratorTest.php" server="kristabice.com//public_html/DGM3760/" local="131550976992553071" remote="131565042600000000" Dst="1" />
+<file name="ExcludeDirectoryFilterIteratorTest.php" server="kristabice.com//public_html/DGM3760/" local="131550976991983437" remote="131565042600000000" Dst="1" />
+<file name="FilenameFilterIteratorTest.php" server="kristabice.com//public_html/DGM3760/" local="131550976993053096" remote="131565042600000000" Dst="1" />
+<file name="FileTypeFilterIteratorTest.php" server="kristabice.com//public_html/DGM3760/" local="131550976992033044" remote="131565042600000000" Dst="1" />
+<file name="FilterIteratorTest.php" server="kristabice.com//public_html/DGM3760/" local="131550976993483138" remote="131565042600000000" Dst="1" />
+<file name="IteratorTestCase.php" server="kristabice.com//public_html/DGM3760/" local="131550976993823141" remote="131565042600000000" Dst="1" />
+<file name="MockFileListIterator.php" server="kristabice.com//public_html/DGM3760/" local="131550976993873154" remote="131565042600000000" Dst="1" />
+<file name="Iterator.php" server="kristabice.com//public_html/DGM3760/" local="131550976993773137" remote="131565042600000000" Dst="1" />
+<file name="MockSplFileInfo.php" server="kristabice.com//public_html/DGM3760/" local="131550976993943138" remote="131565042600000000" Dst="1" />
+<file name="MultiplePcreFilterIteratorTest.php" server="kristabice.com//public_html/DGM3760/" local="131550976994003140" remote="131565042600000000" Dst="1" />
+<file name="PathFilterIteratorTest.php" server="kristabice.com//public_html/DGM3760/" local="131550976994473334" remote="131565042600000000" Dst="1" />
+<file name="RecursiveDirectoryIteratorTest.php" server="kristabice.com//public_html/DGM3760/" local="131550976996008372" remote="131565042600000000" Dst="1" />
+<file name="SizeRangeFilterIteratorTest.php" server="kristabice.com//public_html/DGM3760/" local="131550976996058473" remote="131565042600000000" Dst="1" />
+<file name="RealIteratorTestCase.php" server="kristabice.com//public_html/DGM3760/" local="131550976995948385" remote="131565042600000000" Dst="1" />
+<file name="SortableIteratorTest.php" server="kristabice.com//public_html/DGM3760/" local="131550976996118396" remote="131565042600000000" Dst="1" />
+</dwsync>

@@ -1,0 +1,89 @@
+// Rem output with px fallback
+$phoneWidth: 768px;
+$tabletWidth: 992px;
+$laptopWidth: 2000px;
+@mixin font-size($sizeValue: 1) {
+	font-size: ($sizeValue * 16) * 1px;
+	font-size: $sizeValue * 1rem;
+}
+
+// Center block
+@mixin center-block {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+// Clearfix
+@mixin clearfix() {
+	content: "";
+	display: table;
+	table-layout: fixed;
+}
+
+// Clear after (not all clearfix need this also)
+@mixin clearfix-after() {
+	clear: both;
+}
+
+// Gradiant Maker
+@mixin gradient($firstColor, $firstPercent, $secondColor, $secondPercent) {
+	background: $firstColor;
+	background: -moz-linear-gradient(top, $firstColor $firstPercent, $secondColor $secondPercent); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, $firstColor $firstPercent, $secondColor $secondPercent); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, $firstColor $firstPercent, $secondColor $secondPercent); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='$firstColor', endColorstr='$secondColor',GradientType=0 ); /* IE6-9 */
+}
+
+// Border Radius border-radius(5px)
+@mixin border-radius($radius) {
+  -webkit-border-radius: $radius;
+     -moz-border-radius: $radius;
+      -ms-border-radius: $radius;
+          border-radius: $radius;
+}
+
+// @include breakpoint(laptop);
+@mixin breakpoint($point) {
+    @if $point == laptop {
+        @media (max-width: $laptopWidth)  { @content ; }
+    }
+    @else if $point == tablet {
+        @media (max-width: $tabletWidth) { @content ; }
+    }
+    @else if $point == phone {
+        @media (max-width: $phoneWidth) { @content ; }
+    }
+}
+
+// Usage: @include center() - centers vertically and horizontally
+//        @include center(vert) - centers vertically
+//        @include center(horiz) - centers horizontally
+@mixin center($which:both) { // vert or horiz
+	position:absolute;
+	@if $which == vert {
+		top:50%;
+		-webkit-transform: translateY(-50%);
+		-moz-transform: translateY(-50%);
+		-ms-transform: translateY(-50%);
+		-o-transform: translateY(-50%);
+		transform: translateY(-50%);
+	}
+	@else if $which == horiz {
+		left:50%;
+		-webkit-transform: translateX(-50%);
+		-moz-transform: translateX(-50%);
+		-ms-transform: translateX(-50%);
+		-o-transform: translateX(-50%);
+		transform: translateX(-50%);
+	}
+	@else{
+		left:50%;
+		top:50%;
+		-webkit-transform: translateX(-50%) translateY(-50%);
+		-moz-transform: translateX(-50%) translateY(-50%);
+		-ms-transform: translateX(-50%) translateY(-50%);
+		-o-transform: translateX(-50%) translateY(-50%);
+		transform: translateX(-50%) translateY(-50%);
+	}
+}

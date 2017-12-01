@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CheckstyleReporter.php" server="kristabice.com//public_html/DGM3760/" local="131563720110012407" remote="131565034800000000" Dst="1" />
+<file name="JsonReporter.php" server="kristabice.com//public_html/DGM3760/" local="131563720110012407" remote="131565034800000000" Dst="1" />
+<file name="JunitReporter.php" server="kristabice.com//public_html/DGM3760/" local="131563720110022436" remote="131565034800000000" Dst="1" />
+<file name="ReporterInterface.php" server="kristabice.com//public_html/DGM3760/" local="131563720110032460" remote="131565034800000000" Dst="1" />
+<file name="ReportSummary.php" server="kristabice.com//public_html/DGM3760/" local="131563720110022436" remote="131565034800000000" Dst="1" />
+<file name="ReporterFactory.php" server="kristabice.com//public_html/DGM3760/" local="131563720110032460" remote="131565034800000000" Dst="1" />
+<file name="TextReporter.php" server="kristabice.com//public_html/DGM3760/" local="131563720110032460" remote="131565034800000000" Dst="1" />
+<file name="XmlReporter.php" server="kristabice.com//public_html/DGM3760/" local="131563720110042490" remote="131565034800000000" Dst="1" />
+</dwsync>

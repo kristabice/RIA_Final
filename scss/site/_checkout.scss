@@ -1,0 +1,210 @@
+//for all forms
+#incrament{
+	font-size: 1.5em;
+	color: #cccccc;
+	float: left;
+	padding: 0 .7em;
+	
+}
+	
+	.counter{
+		font-size: .8em;
+		width: 0;
+		height: 0;
+	}
+.cartButton {
+    background: $accent-color;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    font-size: 14px;
+    padding: 5px 15px;
+    /* margin: auto; */
+    /* display: block; */
+    float: right;
+    margin-top: 40px;
+	margin-bottom: 16em;
+}
+
+hr{
+	width: 100%;
+}
+// DETAIL ITEMS IN CART
+.headerDisplay{
+	width: 75%;
+	float: right;
+
+.title{
+		float: left;
+		width: 9%;
+		margin-left: 9em;
+		font-size: 11px;
+		color: #cccccc;
+		margin-top: 5em;
+	}
+}// end of header display
+
+.cartDisplay{
+	display: flex;
+	margin: auto;
+	
+	#button{
+		width: 3%	
+		}
+	.column{
+		margin: 4em auto;
+		width: 18%;
+		float: left;
+		//margin-right: 10%;
+		//margin-top: 3.5em;
+		
+	img{
+		width: 100%;
+		border:  1.5px solid #CCCCCC;
+		
+	}
+		h1{
+			font-size: 1em;
+			color: #cccccc;
+			padding: 1em;
+		}
+		
+		p{
+		text-align: center;
+			padding-bottom: .5em;
+			font-size: .7em;
+	
+}
+		.remove{
+			font-size: 2em;
+			color: #cccccc;
+			
+			i{
+				float: right;
+			}
+		}
+	}
+	
+
+}
+//Checkout Scss
+#card{
+	
+	width: 80%;
+	margin: auto;
+  .cardInfo {
+    height: 100vh;
+    width: 100%;
+
+    h2 {
+      line-height: .2;
+      text-align: center;
+      padding: 120px 0;
+      font-size: 40px;
+
+      span {
+        display: inline-block;
+        position: relative;
+
+        &:before, &:after {
+          content: "";
+          position: absolute;
+          height: 5px;
+          border-top: 3px solid #ccc;
+          top: 0;
+          width: 98%;
+        }
+        &:before {
+          right: 100%;
+          margin-right: 15px;
+        }
+        &:after {
+          left: 100%;
+          margin-left: 15px;
+        }// end of &:after
+      }//end of span
+    } // end of h2
+	  
+	  
+	  .progress{
+		  width: 100%;
+		  margin: 1em auto;
+		  
+		  img{
+			  width: 100%;
+		  }
+	  }
+	  
+	  //----------------------FORM STLYING----------------------
+	  form{
+		  
+		  width: 80%;
+		  margin: auto;
+		  
+		  fieldset{
+		  
+		  input{
+				padding: .5em;
+				margin-bottom: 1.5em;
+			  
+			 
+		  }
+		  label{
+		  	margin: 1em 0;
+		  }
+		  span{
+			  margin-top: 1em;
+		  }
+		  .number{
+			  width: 98%;
+			  border-radius: 5px;
+			  
+		  }// end of numberr
+		  .name{
+			  width: 98%;
+			  border-radius: 5px;
+		  }
+			  
+			  .cardCCV{
+				  width: 100%;
+				  display: flex;
+				  flex-direction: row;
+			 
+			 
+			  .expire{
+				width: 90%;
+				margin-right:16em;
+			  }
+				   .security{
+				
+				@extend .expire;
+					   
+			  }
+		 
+			  }
+			  .payment{
+
+				  
+				  img{
+					  width: 20%;
+				  }
+				    }// end of payment div	
+				  .cardType{
+					  width: 40%;
+					  display: inline-block;
+					  float: right;
+					  img{
+						  width: 100%;
+					  }
+					  
+					 
+				  }
+			   .nameCard, .billing, .city, .state, .zip{
+						  width: 100%;
+					  }
+			
+			  
+	  }// end of fieldset
+	  }//end form stlying
+	}// end of .card info
+}// end of #card

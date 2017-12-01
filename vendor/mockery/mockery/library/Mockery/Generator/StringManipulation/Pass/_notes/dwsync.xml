@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CallTypeHintPass.php" server="kristabice.com//public_html/DGM3760/" local="131563719574613672" remote="131565037200000000" Dst="1" />
+<file name="ClassNamePass.php" server="kristabice.com//public_html/DGM3760/" local="131563719574623716" remote="131565037200000000" Dst="1" />
+<file name="ClassPass.php" server="kristabice.com//public_html/DGM3760/" local="131563719574623716" remote="131565037200000000" Dst="1" />
+<file name="InstanceMockPass.php" server="kristabice.com//public_html/DGM3760/" local="131563719574633756" remote="131565037200000000" Dst="1" />
+<file name="InterfacePass.php" server="kristabice.com//public_html/DGM3760/" local="131563719574633756" remote="131565037200000000" Dst="1" />
+<file name="MagicMethodTypeHintsPass.php" server="kristabice.com//public_html/DGM3760/" local="131563719574633756" remote="131565037200000000" Dst="1" />
+<file name="MethodDefinitionPass.php" server="kristabice.com//public_html/DGM3760/" local="131563719574643780" remote="131565037200000000" Dst="1" />
+<file name="Pass.php" server="kristabice.com//public_html/DGM3760/" local="131563719574643780" remote="131565037200000000" Dst="1" />
+<file name="RemoveBuiltinMethodsThatAreFinalPass.php" server="kristabice.com//public_html/DGM3760/" local="131563719574643780" remote="131565037200000000" Dst="1" />
+<file name="RemoveDestructorPass.php" server="kristabice.com//public_html/DGM3760/" local="131563719574653804" remote="131565037200000000" Dst="1" />
+<file name="RemoveUnserializeForInternalSerializableClassesPass.php" server="kristabice.com//public_html/DGM3760/" local="131563719574653804" remote="131565037200000000" Dst="1" />
+<file name="TraitPass.php" server="kristabice.com//public_html/DGM3760/" local="131563719574653804" remote="131565037200000000" Dst="1" />
+</dwsync>

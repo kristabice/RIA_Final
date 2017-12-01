@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="PhpUnitConstructFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108730248" remote="131565034800000000" Dst="1" />
+<file name="PhpUnitExpectationFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720109621370" remote="131565034800000000" Dst="1" />
+<file name="PhpUnitFqcnAnnotationFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720109621370" remote="131565034800000000" Dst="1" />
+<file name="PhpUnitDedicateAssertFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108740278" remote="131565034800000000" Dst="1" />
+<file name="PhpUnitMockFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720109631399" remote="131565034800000000" Dst="1" />
+<file name="PhpUnitNamespacedFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720109631399" remote="131565034800000000" Dst="1" />
+<file name="PhpUnitNoExpectationAnnotationFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720109631399" remote="131565034800000000" Dst="1" />
+<file name="PhpUnitStrictFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720109641423" remote="131565034800000000" Dst="1" />
+<file name="PhpUnitTargetVersion.php" server="kristabice.com//public_html/DGM3760/" local="131563720109641423" remote="131565034800000000" Dst="1" />
+<file name="PhpUnitTestClassRequiresCoversFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720109641423" remote="131565034800000000" Dst="1" />
+</dwsync>

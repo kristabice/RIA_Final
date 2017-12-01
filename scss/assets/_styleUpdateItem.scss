@@ -1,0 +1,53 @@
+/*STYLE THE INVENTORY*/
+
+.inventory{
+	float: left;
+	width: 40%;
+	padding: .6em;
+	border: solid 1px $apple;
+	margin:  .5em;
+	
+	
+	.buttons{
+		margin: 1em 0 1em 0;
+	}
+	a{
+		font-size: .9em;
+		padding: .5em;
+		margin-top: 1em;
+		margin-right: .7em;
+		text-decoration: none;
+		
+	}
+	
+	.update{
+		border: 1px solid $accent-color;
+		color: $accent-color;
+		
+		
+	}
+	
+	.update:hover{
+		background: $accent-color;
+		color: white;
+
+	}
+	
+	.delete{
+		
+		border: 1px solid red;
+		color: red;
+	}
+	
+	.delete:hover{
+		background: red;
+		color: white;
+
+	}
+}
+
+
+
+.deleteItem{
+	
+}

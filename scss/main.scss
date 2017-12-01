@@ -1,0 +1,22 @@
+/* variables */
+@import 'assets/variables.scss';
+
+/* partials */
+@import 'partials/mixins.scss';
+
+/* assets */
+@import 'assets/header.scss';
+@import 'assets/body.scss';
+@import 'assets/searchBox.scss';
+@import 'assets/styleSignIn.scss';
+@import 'assets/styleInventory.scss';
+@import 'assets/styleUpdateItem.scss';
+
+/* site */
+@import 'site/site.scss';
+@import 'site/home.scss';
+@import 'site/shopping.scss';
+@import 'site/checkout.scss' ;
+@import 'site/form.scss' ;
+@import 'site/details.scss';
+@import 'site/contact.scss';

@@ -1,0 +1,64 @@
+body{
+	#contact{
+		.fancy{
+			background-image:url("landscape.jpg");
+			background-attachment: fixed;
+			background-position: 41%;
+			
+			height: 400px;
+		}
+		.shout {
+		    margin: auto;
+		    display: block;
+		
+		    width: 40%;
+		    padding: 20px;
+		    text-align: center;
+		    h2{
+		    	font-size:22px;
+		    	margin-bottom: 10px;
+		    }
+		    p{
+		    	font-size: 13px;
+		    }
+		}
+		form{
+		    display: block;
+		    
+		    width: 50%;
+		    border: 1px solid black;
+		    padding: 20px;
+		    margin:  auto;
+		    margin-bottom: 30px;
+			label{
+				display: block;
+			}
+			input{
+				padding: 10px;
+			    width: 95%;
+			    margin: 10px auto;
+			}
+			input[type="text"]{
+			    font-size:18px;
+			}
+			button {
+				    border: none;
+				    padding: 6px 25px;
+				    color: black;
+				    font-size: 16px;
+				    border-radius: 5px;
+				    margin: 10px auto;
+				    display: block;
+				    background:#64cb72;
+				    cursor: pointer;
+				}
+			textarea{
+				padding: 10px;
+			    width: 95%;
+			    margin: 10px auto;
+			}
+		}
+	
+	}
+}
+

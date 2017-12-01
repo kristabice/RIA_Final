@@ -1,0 +1,10 @@
+{
+    "require": {
+        "gloudemans/shoppingcart": "^2.4",
+        "mike182uk/cart": "^3.0",
+        "phpunit/phpunit": "^6.4",
+        "mockery/mockery": "^1.0",
+        "friendsofphp/php-cs-fixer": "^2.8",
+        "voku/cart": "^1.0"
+    }
+}

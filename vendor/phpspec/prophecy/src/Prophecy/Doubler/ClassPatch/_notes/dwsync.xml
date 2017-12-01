@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ClassPatchInterface.php" server="kristabice.com//public_html/DGM3760/" local="131563719062379363" remote="131565038400000000" Dst="1" />
+<file name="DisableConstructorPatch.php" server="kristabice.com//public_html/DGM3760/" local="131563719062379363" remote="131565038400000000" Dst="1" />
+<file name="HhvmExceptionPatch.php" server="kristabice.com//public_html/DGM3760/" local="131563719062389387" remote="131565038400000000" Dst="1" />
+<file name="ProphecySubjectPatch.php" server="kristabice.com//public_html/DGM3760/" local="131563719062399416" remote="131565038400000000" Dst="1" />
+<file name="KeywordPatch.php" server="kristabice.com//public_html/DGM3760/" local="131563719062389387" remote="131565038400000000" Dst="1" />
+<file name="MagicCallPatch.php" server="kristabice.com//public_html/DGM3760/" local="131563719062399416" remote="131565038400000000" Dst="1" />
+<file name="SplFileInfoPatch.php" server="kristabice.com//public_html/DGM3760/" local="131563719062409440" remote="131565038400000000" Dst="1" />
+<file name="TraversablePatch.php" server="kristabice.com//public_html/DGM3760/" local="131563719062409440" remote="131565038400000000" Dst="1" />
+<file name="ReflectionClassNewInstancePatch.php" server="kristabice.com//public_html/DGM3760/" local="131563719062399416" remote="131565038400000000" Dst="1" />
+</dwsync>

@@ -1,0 +1,45 @@
+body {
+  font-family: $font-stack;
+
+  .wrapper {
+    margin: 0 auto;
+    width: 80%;
+  }
+  a {
+    color: inherit;
+    text-decoration: none;
+
+    &:visited {
+      color: inherit;
+    }
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+.shade {
+	width: 100%;
+	position: absolute;
+	z-index: -2;
+	left: 0;
+}
+
+.alignment {
+	margin: 0 auto;
+	padding: 0 45px;
+}
+
+.btn {
+  width: 110px;
+  text-align: center;
+  border: 2px solid $emerald;
+  border-radius: 10px;
+  padding: 10px;
+
+  &:hover {
+    cursor: pointer;
+    text-decoration: underline;
+  }
+}

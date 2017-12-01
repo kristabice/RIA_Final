@@ -1,0 +1,36 @@
+
+/* CSS Document */
+body{
+	font-family: $font-stack;
+}
+
+#container{
+	width: 75%;
+	margin: auto;
+}
+
+
+@include breakpoint(tablet){
+	.hero{
+	input{
+		right: 75px;
+		top: 500px;
+	}
+
+	}
+
+.wrapper{
+	width: 75%;
+	margin: auto;
+}
+
+
+
+}//end of tablet breakpoint
+
+
+
+// keep floating items clear
+.keepOpen{
+	clear: both;
+}

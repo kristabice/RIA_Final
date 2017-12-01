@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AlignDoubleArrowFixerHelper.php" server="kristabice.com//public_html/DGM3760/" local="131563720108650040" remote="131565034800000000" Dst="1" />
+<file name="AlignEqualsFixerHelper.php" server="kristabice.com//public_html/DGM3760/" local="131563720108650040" remote="131565034800000000" Dst="1" />
+<file name="BinaryOperatorSpacesFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108660064" remote="131565034800000000" Dst="1" />
+<file name="IncrementStyleFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108670094" remote="131565034800000000" Dst="1" />
+<file name="NewWithBracesFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108670094" remote="131565034800000000" Dst="1" />
+<file name="ConcatSpaceFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108660064" remote="131565034800000000" Dst="1" />
+<file name="NotOperatorWithSpaceFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108670094" remote="131565034800000000" Dst="1" />
+<file name="NotOperatorWithSuccessorSpaceFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108680118" remote="131565034800000000" Dst="1" />
+<file name="ObjectOperatorWithoutWhitespaceFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108680118" remote="131565034800000000" Dst="1" />
+<file name="StandardizeNotEqualsFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108690147" remote="131565034800000000" Dst="1" />
+<file name="TernaryOperatorSpacesFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108690147" remote="131565034800000000" Dst="1" />
+<file name="PreIncrementFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108690147" remote="131565034800000000" Dst="1" />
+<file name="TernaryToNullCoalescingFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108700171" remote="131565034800000000" Dst="1" />
+<file name="UnaryOperatorSpacesFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108700171" remote="131565034800000000" Dst="1" />
+</dwsync>

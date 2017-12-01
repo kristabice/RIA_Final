@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="NoLeadingImportSlashFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108548473" remote="131565034800000000" Dst="1" />
+<file name="OrderedImportsFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108558513" remote="131565034800000000" Dst="1" />
+<file name="NoUnusedImportsFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108553495" remote="131565034800000000" Dst="1" />
+<file name="SingleImportPerStatementFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108563514" remote="131565034800000000" Dst="1" />
+<file name="SingleLineAfterImportsFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108568537" remote="131565034800000000" Dst="1" />
+</dwsync>
