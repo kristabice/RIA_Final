@@ -62,7 +62,8 @@ require_once('cartStuff.php');
 					$itemResults = mysqli_query($ItemConnection, $itemAdd) or die ('item add is not working');
 					$cart->remove($item->id);
 					$cart->total(0);
-					//header("Location: form.php");
+					$cart->save();
+					header("Location: form.php");
 				
 				}
 				
