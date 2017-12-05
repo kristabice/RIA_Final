@@ -45,9 +45,10 @@ require_once('cartStuff.php');
 	 
 		<?php
 		 	if(isset($_GET['item'])){
+				
 				$cartItems = $cart->all();
 				foreach ($cartItems as $item) {
-					
+					$clear = $_GET['item'];
 					require_once('variables.php');
 							//BUILD THE DATABASE CONNECTION WITH host, user, pass, database
 					$ItemConnection = mysqli_connect(HOST,USER,PASSWORD,DB_NAME) or die ('connection failed');
@@ -59,8 +60,9 @@ require_once('cartStuff.php');
 					$itemAdd = "INSERT INTO orders(order_items, address, user_id) VALUES ('$item->name $item->model $item->color $item->size $item->quantitiy','123', '$user')";
 
 					$itemResults = mysqli_query($ItemConnection, $itemAdd) or die ('item add is not working');
-					$cart->clear();
-					header("Location: form.php");
+					$cart->remove($item->id);
+					$cart->total(0);
+					//header("Location: form.php");
 				
 				}
 				
