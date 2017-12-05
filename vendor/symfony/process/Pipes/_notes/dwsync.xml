@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="AbstractPipes.php" server="kristabice.com//public_html/DGM3760/" local="131563719919904466" remote="131565043200000000" Dst="1" />
-<file name="PipesInterface.php" server="kristabice.com//public_html/DGM3760/" local="131563719919909483" remote="131565043200000000" Dst="1" />
-<file name="UnixPipes.php" server="kristabice.com//public_html/DGM3760/" local="131563719919914505" remote="131565043200000000" Dst="1" />
-<file name="WindowsPipes.php" server="kristabice.com//public_html/DGM3760/" local="131563719919919517" remote="131565043200000000" Dst="1" />
+<file name="AbstractPipes.php" server="kristabice.com//public_html/DGM3760/" local="131563719919904466" remote="131565879000000000" Dst="1" />
+<file name="PipesInterface.php" server="kristabice.com//public_html/DGM3760/" local="131563719919909483" remote="131565879000000000" Dst="1" />
+<file name="UnixPipes.php" server="kristabice.com//public_html/DGM3760/" local="131563719919914505" remote="131565879000000000" Dst="1" />
+<file name="WindowsPipes.php" server="kristabice.com//public_html/DGM3760/" local="131563719919919517" remote="131565879000000000" Dst="1" />
 </dwsync>

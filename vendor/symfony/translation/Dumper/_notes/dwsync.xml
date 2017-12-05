@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="CsvFileDumper.php" server="kristabice.com//public_html/DGM3760/" local="131550976813419593" remote="131565043200000000" Dst="1" />
-<file name="DumperInterface.php" server="kristabice.com//public_html/DGM3760/" local="131550976813629111" remote="131565043200000000" Dst="1" />
-<file name="FileDumper.php" server="kristabice.com//public_html/DGM3760/" local="131550976813689430" remote="131565043200000000" Dst="1" />
-<file name="IniFileDumper.php" server="kristabice.com//public_html/DGM3760/" local="131550976814589206" remote="131565043200000000" Dst="1" />
-<file name="IcuResFileDumper.php" server="kristabice.com//public_html/DGM3760/" local="131550976814529640" remote="131565043200000000" Dst="1" />
-<file name="MoFileDumper.php" server="kristabice.com//public_html/DGM3760/" local="131550976815248502" remote="131565043200000000" Dst="1" />
-<file name="JsonFileDumper.php" server="kristabice.com//public_html/DGM3760/" local="131550976814998401" remote="131565043200000000" Dst="1" />
-<file name="PhpFileDumper.php" server="kristabice.com//public_html/DGM3760/" local="131550976815648511" remote="131565043200000000" Dst="1" />
-<file name="PoFileDumper.php" server="kristabice.com//public_html/DGM3760/" local="131550976816093463" remote="131565043200000000" Dst="1" />
-<file name="QtFileDumper.php" server="kristabice.com//public_html/DGM3760/" local="131550976816483836" remote="131565043200000000" Dst="1" />
-<file name="YamlFileDumper.php" server="kristabice.com//public_html/DGM3760/" local="131550976817023887" remote="131565043200000000" Dst="1" />
-<file name="XliffFileDumper.php" server="kristabice.com//public_html/DGM3760/" local="131550976816984116" remote="131565043200000000" Dst="1" />
+<file name="CsvFileDumper.php" server="kristabice.com//public_html/DGM3760/" local="131550976813419593" remote="131565879000000000" Dst="1" />
+<file name="DumperInterface.php" server="kristabice.com//public_html/DGM3760/" local="131550976813629111" remote="131565879000000000" Dst="1" />
+<file name="FileDumper.php" server="kristabice.com//public_html/DGM3760/" local="131550976813689430" remote="131565879000000000" Dst="1" />
+<file name="IniFileDumper.php" server="kristabice.com//public_html/DGM3760/" local="131550976814589206" remote="131565879000000000" Dst="1" />
+<file name="IcuResFileDumper.php" server="kristabice.com//public_html/DGM3760/" local="131550976814529640" remote="131565879000000000" Dst="1" />
+<file name="MoFileDumper.php" server="kristabice.com//public_html/DGM3760/" local="131550976815248502" remote="131565879000000000" Dst="1" />
+<file name="JsonFileDumper.php" server="kristabice.com//public_html/DGM3760/" local="131550976814998401" remote="131565879000000000" Dst="1" />
+<file name="PhpFileDumper.php" server="kristabice.com//public_html/DGM3760/" local="131550976815648511" remote="131565879000000000" Dst="1" />
+<file name="PoFileDumper.php" server="kristabice.com//public_html/DGM3760/" local="131550976816093463" remote="131565879000000000" Dst="1" />
+<file name="QtFileDumper.php" server="kristabice.com//public_html/DGM3760/" local="131550976816483836" remote="131565879000000000" Dst="1" />
+<file name="YamlFileDumper.php" server="kristabice.com//public_html/DGM3760/" local="131550976817023887" remote="131565879000000000" Dst="1" />
+<file name="XliffFileDumper.php" server="kristabice.com//public_html/DGM3760/" local="131550976816984116" remote="131565879000000000" Dst="1" />
 </dwsync>

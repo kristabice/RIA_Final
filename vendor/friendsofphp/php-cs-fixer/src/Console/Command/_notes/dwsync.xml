@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="DescribeCommand.php" server="kristabice.com//public_html/DGM3760/" local="131563720108037095" remote="131565034200000000" Dst="1" />
-<file name="DescribeNameNotFoundException.php" server="kristabice.com//public_html/DGM3760/" local="131563720108037095" remote="131565034200000000" Dst="1" />
-<file name="FixCommand.php" server="kristabice.com//public_html/DGM3760/" local="131563720108047124" remote="131565034200000000" Dst="1" />
-<file name="FixCommandExitStatusCalculator.php" server="kristabice.com//public_html/DGM3760/" local="131563720108047124" remote="131565034200000000" Dst="1" />
-<file name="ReadmeCommand.php" server="kristabice.com//public_html/DGM3760/" local="131563720108057149" remote="131565034200000000" Dst="1" />
-<file name="HelpCommand.php" server="kristabice.com//public_html/DGM3760/" local="131563720108057149" remote="131565034200000000" Dst="1" />
-<file name="SelfUpdateCommand.php" server="kristabice.com//public_html/DGM3760/" local="131563720108067178" remote="131565034200000000" Dst="1" />
+<file name="DescribeCommand.php" server="kristabice.com//public_html/DGM3760/" local="131563720108037095" remote="131565862800000000" Dst="1" />
+<file name="DescribeNameNotFoundException.php" server="kristabice.com//public_html/DGM3760/" local="131563720108037095" remote="131565862800000000" Dst="1" />
+<file name="FixCommand.php" server="kristabice.com//public_html/DGM3760/" local="131563720108047124" remote="131565862800000000" Dst="1" />
+<file name="FixCommandExitStatusCalculator.php" server="kristabice.com//public_html/DGM3760/" local="131563720108047124" remote="131565862800000000" Dst="1" />
+<file name="ReadmeCommand.php" server="kristabice.com//public_html/DGM3760/" local="131563720108057149" remote="131565862800000000" Dst="1" />
+<file name="HelpCommand.php" server="kristabice.com//public_html/DGM3760/" local="131563720108057149" remote="131565862800000000" Dst="1" />
+<file name="SelfUpdateCommand.php" server="kristabice.com//public_html/DGM3760/" local="131563720108067178" remote="131565862800000000" Dst="1" />
 </dwsync>

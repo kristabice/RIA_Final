@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="ArrayComparator.php" server="kristabice.com//public_html/DGM3760/" local="131563718919354066" remote="131565040800000000" Dst="1" />
-<file name="Comparator.php" server="kristabice.com//public_html/DGM3760/" local="131563718919354066" remote="131565040800000000" Dst="1" />
-<file name="ComparisonFailure.php" server="kristabice.com//public_html/DGM3760/" local="131563718919364090" remote="131565040800000000" Dst="1" />
-<file name="DateTimeComparator.php" server="kristabice.com//public_html/DGM3760/" local="131563718919364090" remote="131565040800000000" Dst="1" />
-<file name="DOMNodeComparator.php" server="kristabice.com//public_html/DGM3760/" local="131563718919364090" remote="131565040800000000" Dst="1" />
-<file name="DoubleComparator.php" server="kristabice.com//public_html/DGM3760/" local="131563718919374129" remote="131565040800000000" Dst="1" />
-<file name="ExceptionComparator.php" server="kristabice.com//public_html/DGM3760/" local="131563718919374129" remote="131565040800000000" Dst="1" />
-<file name="Factory.php" server="kristabice.com//public_html/DGM3760/" local="131563718919374129" remote="131565040800000000" Dst="1" />
-<file name="MockObjectComparator.php" server="kristabice.com//public_html/DGM3760/" local="131563718919384148" remote="131565040800000000" Dst="1" />
-<file name="ObjectComparator.php" server="kristabice.com//public_html/DGM3760/" local="131563718919384148" remote="131565040800000000" Dst="1" />
-<file name="ResourceComparator.php" server="kristabice.com//public_html/DGM3760/" local="131563718919394172" remote="131565040800000000" Dst="1" />
-<file name="NumericComparator.php" server="kristabice.com//public_html/DGM3760/" local="131563718919384148" remote="131565040800000000" Dst="1" />
-<file name="SplObjectStorageComparator.php" server="kristabice.com//public_html/DGM3760/" local="131563718919404197" remote="131565040800000000" Dst="1" />
-<file name="TypeComparator.php" server="kristabice.com//public_html/DGM3760/" local="131563718919404197" remote="131565040800000000" Dst="1" />
-<file name="ScalarComparator.php" server="kristabice.com//public_html/DGM3760/" local="131563718919394172" remote="131565040800000000" Dst="1" />
+<file name="ArrayComparator.php" server="kristabice.com//public_html/DGM3760/" local="131563718919354066" remote="131565871200000000" Dst="1" />
+<file name="Comparator.php" server="kristabice.com//public_html/DGM3760/" local="131563718919354066" remote="131565871200000000" Dst="1" />
+<file name="ComparisonFailure.php" server="kristabice.com//public_html/DGM3760/" local="131563718919364090" remote="131565871200000000" Dst="1" />
+<file name="DateTimeComparator.php" server="kristabice.com//public_html/DGM3760/" local="131563718919364090" remote="131565871200000000" Dst="1" />
+<file name="DOMNodeComparator.php" server="kristabice.com//public_html/DGM3760/" local="131563718919364090" remote="131565871200000000" Dst="1" />
+<file name="DoubleComparator.php" server="kristabice.com//public_html/DGM3760/" local="131563718919374129" remote="131565871200000000" Dst="1" />
+<file name="ExceptionComparator.php" server="kristabice.com//public_html/DGM3760/" local="131563718919374129" remote="131565871200000000" Dst="1" />
+<file name="Factory.php" server="kristabice.com//public_html/DGM3760/" local="131563718919374129" remote="131565871200000000" Dst="1" />
+<file name="MockObjectComparator.php" server="kristabice.com//public_html/DGM3760/" local="131563718919384148" remote="131565871200000000" Dst="1" />
+<file name="ObjectComparator.php" server="kristabice.com//public_html/DGM3760/" local="131563718919384148" remote="131565871200000000" Dst="1" />
+<file name="ResourceComparator.php" server="kristabice.com//public_html/DGM3760/" local="131563718919394172" remote="131565871200000000" Dst="1" />
+<file name="NumericComparator.php" server="kristabice.com//public_html/DGM3760/" local="131563718919384148" remote="131565871200000000" Dst="1" />
+<file name="SplObjectStorageComparator.php" server="kristabice.com//public_html/DGM3760/" local="131563718919404197" remote="131565871200000000" Dst="1" />
+<file name="TypeComparator.php" server="kristabice.com//public_html/DGM3760/" local="131563718919404197" remote="131565871200000000" Dst="1" />
+<file name="ScalarComparator.php" server="kristabice.com//public_html/DGM3760/" local="131563718919394172" remote="131565871200000000" Dst="1" />
 </dwsync>

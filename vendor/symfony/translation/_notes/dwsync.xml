@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name=".gitignore" server="kristabice.com//public_html/DGM3760/" local="131550976810290317" remote="131565043200000000" Dst="1" />
-<file name="CHANGELOG.md" server="kristabice.com//public_html/DGM3760/" local="131550976810410325" remote="131565043200000000" Dst="1" />
-<file name="composer.json" server="kristabice.com//public_html/DGM3760/" local="131550976843430843" remote="131565043200000000" Dst="1" />
-<file name="DataCollectorTranslator.php" server="kristabice.com//public_html/DGM3760/" local="131550976812969527" remote="131565043200000000" Dst="1" />
-<file name="Interval.php" server="kristabice.com//public_html/DGM3760/" local="131550976818853667" remote="131565043200000000" Dst="1" />
-<file name="IdentityTranslator.php" server="kristabice.com//public_html/DGM3760/" local="131550976818803502" remote="131565043200000000" Dst="1" />
-<file name="LICENSE" server="kristabice.com//public_html/DGM3760/" local="131550976818903851" remote="131565043200000000" Dst="1" />
-<file name="LoggingTranslator.php" server="kristabice.com//public_html/DGM3760/" local="131550976823521970" remote="131565043200000000" Dst="1" />
-<file name="MessageCatalogue.php" server="kristabice.com//public_html/DGM3760/" local="131550976823941979" remote="131565043200000000" Dst="1" />
-<file name="MessageCatalogueInterface.php" server="kristabice.com//public_html/DGM3760/" local="131550976824382018" remote="131565043200000000" Dst="1" />
-<file name="MessageSelector.php" server="kristabice.com//public_html/DGM3760/" local="131550976824652437" remote="131565043200000000" Dst="1" />
-<file name="MetadataAwareInterface.php" server="kristabice.com//public_html/DGM3760/" local="131550976824932248" remote="131565043200000000" Dst="1" />
-<file name="phpunit.xml.dist" server="kristabice.com//public_html/DGM3760/" local="131550976843561215" remote="131565043200000000" Dst="1" />
-<file name="PluralizationRules.php" server="kristabice.com//public_html/DGM3760/" local="131550976824982432" remote="131565043200000000" Dst="1" />
-<file name="README.md" server="kristabice.com//public_html/DGM3760/" local="131550976825082474" remote="131565043200000000" Dst="1" />
-<file name="Translator.php" server="kristabice.com//public_html/DGM3760/" local="131550976842730725" remote="131565043200000000" Dst="1" />
-<file name="TranslatorBagInterface.php" server="kristabice.com//public_html/DGM3760/" local="131550976843000757" remote="131565043200000000" Dst="1" />
-<file name="TranslatorInterface.php" server="kristabice.com//public_html/DGM3760/" local="131550976843051240" remote="131565043200000000" Dst="1" />
+<file name=".gitignore" server="kristabice.com//public_html/DGM3760/" local="131550976810290317" remote="131565879000000000" Dst="1" />
+<file name="CHANGELOG.md" server="kristabice.com//public_html/DGM3760/" local="131550976810410325" remote="131565879000000000" Dst="1" />
+<file name="composer.json" server="kristabice.com//public_html/DGM3760/" local="131550976843430843" remote="131565879000000000" Dst="1" />
+<file name="DataCollectorTranslator.php" server="kristabice.com//public_html/DGM3760/" local="131550976812969527" remote="131565879000000000" Dst="1" />
+<file name="Interval.php" server="kristabice.com//public_html/DGM3760/" local="131550976818853667" remote="131565879000000000" Dst="1" />
+<file name="IdentityTranslator.php" server="kristabice.com//public_html/DGM3760/" local="131550976818803502" remote="131565879000000000" Dst="1" />
+<file name="LICENSE" server="kristabice.com//public_html/DGM3760/" local="131550976818903851" remote="131565879000000000" Dst="1" />
+<file name="LoggingTranslator.php" server="kristabice.com//public_html/DGM3760/" local="131550976823521970" remote="131565879000000000" Dst="1" />
+<file name="MessageCatalogue.php" server="kristabice.com//public_html/DGM3760/" local="131550976823941979" remote="131565879000000000" Dst="1" />
+<file name="MessageCatalogueInterface.php" server="kristabice.com//public_html/DGM3760/" local="131550976824382018" remote="131565879000000000" Dst="1" />
+<file name="MessageSelector.php" server="kristabice.com//public_html/DGM3760/" local="131550976824652437" remote="131565879000000000" Dst="1" />
+<file name="MetadataAwareInterface.php" server="kristabice.com//public_html/DGM3760/" local="131550976824932248" remote="131565879000000000" Dst="1" />
+<file name="phpunit.xml.dist" server="kristabice.com//public_html/DGM3760/" local="131550976843561215" remote="131565879000000000" Dst="1" />
+<file name="PluralizationRules.php" server="kristabice.com//public_html/DGM3760/" local="131550976824982432" remote="131565879000000000" Dst="1" />
+<file name="README.md" server="kristabice.com//public_html/DGM3760/" local="131550976825082474" remote="131565879000000000" Dst="1" />
+<file name="Translator.php" server="kristabice.com//public_html/DGM3760/" local="131550976842730725" remote="131565879600000000" Dst="1" />
+<file name="TranslatorBagInterface.php" server="kristabice.com//public_html/DGM3760/" local="131550976843000757" remote="131565879600000000" Dst="1" />
+<file name="TranslatorInterface.php" server="kristabice.com//public_html/DGM3760/" local="131550976843051240" remote="131565879600000000" Dst="1" />
 </dwsync>

@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="AuthorElementCollection.php" server="kristabice.com//public_html/DGM3760/" local="131563719085773752" remote="131565037800000000" Dst="1" />
-<file name="BundlesElement.php" server="kristabice.com//public_html/DGM3760/" local="131563719085773752" remote="131565037800000000" Dst="1" />
-<file name="AuthorElement.php" server="kristabice.com//public_html/DGM3760/" local="131563719085773752" remote="131565037800000000" Dst="1" />
-<file name="ContainsElement.php" server="kristabice.com//public_html/DGM3760/" local="131563719085793806" remote="131565037800000000" Dst="1" />
-<file name="ComponentElement.php" server="kristabice.com//public_html/DGM3760/" local="131563719085783777" remote="131565037800000000" Dst="1" />
-<file name="ComponentElementCollection.php" server="kristabice.com//public_html/DGM3760/" local="131563719085783777" remote="131565037800000000" Dst="1" />
-<file name="CopyrightElement.php" server="kristabice.com//public_html/DGM3760/" local="131563719085793806" remote="131565037800000000" Dst="1" />
-<file name="ElementCollection.php" server="kristabice.com//public_html/DGM3760/" local="131563719085793806" remote="131565037800000000" Dst="1" />
-<file name="ExtElement.php" server="kristabice.com//public_html/DGM3760/" local="131563719085803830" remote="131565037800000000" Dst="1" />
-<file name="LicenseElement.php" server="kristabice.com//public_html/DGM3760/" local="131563719085813859" remote="131565037800000000" Dst="1" />
-<file name="ExtElementCollection.php" server="kristabice.com//public_html/DGM3760/" local="131563719085803830" remote="131565037800000000" Dst="1" />
-<file name="ExtensionElement.php" server="kristabice.com//public_html/DGM3760/" local="131563719085803830" remote="131565037800000000" Dst="1" />
-<file name="ManifestDocumentLoadingException.php" server="kristabice.com//public_html/DGM3760/" local="131563719085813859" remote="131565037800000000" Dst="1" />
-<file name="ManifestElement.php" server="kristabice.com//public_html/DGM3760/" local="131563719085823883" remote="131565037800000000" Dst="1" />
-<file name="ManifestDocument.php" server="kristabice.com//public_html/DGM3760/" local="131563719085813859" remote="131565037800000000" Dst="1" />
-<file name="RequiresElement.php" server="kristabice.com//public_html/DGM3760/" local="131563719085833912" remote="131565037800000000" Dst="1" />
-<file name="PhpElement.php" server="kristabice.com//public_html/DGM3760/" local="131563719085823883" remote="131565037800000000" Dst="1" />
+<file name="AuthorElementCollection.php" server="kristabice.com//public_html/DGM3760/" local="131563719085773752" remote="131565867000000000" Dst="1" />
+<file name="BundlesElement.php" server="kristabice.com//public_html/DGM3760/" local="131563719085773752" remote="131565867000000000" Dst="1" />
+<file name="AuthorElement.php" server="kristabice.com//public_html/DGM3760/" local="131563719085773752" remote="131565867000000000" Dst="1" />
+<file name="ContainsElement.php" server="kristabice.com//public_html/DGM3760/" local="131563719085793806" remote="131565867000000000" Dst="1" />
+<file name="ComponentElement.php" server="kristabice.com//public_html/DGM3760/" local="131563719085783777" remote="131565867000000000" Dst="1" />
+<file name="ComponentElementCollection.php" server="kristabice.com//public_html/DGM3760/" local="131563719085783777" remote="131565867000000000" Dst="1" />
+<file name="CopyrightElement.php" server="kristabice.com//public_html/DGM3760/" local="131563719085793806" remote="131565867000000000" Dst="1" />
+<file name="ElementCollection.php" server="kristabice.com//public_html/DGM3760/" local="131563719085793806" remote="131565867000000000" Dst="1" />
+<file name="ExtElement.php" server="kristabice.com//public_html/DGM3760/" local="131563719085803830" remote="131565867000000000" Dst="1" />
+<file name="LicenseElement.php" server="kristabice.com//public_html/DGM3760/" local="131563719085813859" remote="131565867000000000" Dst="1" />
+<file name="ExtElementCollection.php" server="kristabice.com//public_html/DGM3760/" local="131563719085803830" remote="131565867000000000" Dst="1" />
+<file name="ExtensionElement.php" server="kristabice.com//public_html/DGM3760/" local="131563719085803830" remote="131565867000000000" Dst="1" />
+<file name="ManifestDocumentLoadingException.php" server="kristabice.com//public_html/DGM3760/" local="131563719085813859" remote="131565867000000000" Dst="1" />
+<file name="ManifestElement.php" server="kristabice.com//public_html/DGM3760/" local="131563719085823883" remote="131565867000000000" Dst="1" />
+<file name="ManifestDocument.php" server="kristabice.com//public_html/DGM3760/" local="131563719085813859" remote="131565867000000000" Dst="1" />
+<file name="RequiresElement.php" server="kristabice.com//public_html/DGM3760/" local="131563719085833912" remote="131565867000000000" Dst="1" />
+<file name="PhpElement.php" server="kristabice.com//public_html/DGM3760/" local="131563719085823883" remote="131565867000000000" Dst="1" />
 </dwsync>

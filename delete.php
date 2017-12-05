@@ -1,4 +1,5 @@
 <?php
+session_start();
 require_once('authorize.php');
 
 $id = $_GET['id'];

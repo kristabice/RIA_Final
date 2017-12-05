@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="InvalidArgumentException.php" server="kristabice.com//public_html/DGM3760/" local="131563719991298293" remote="131565040800000000" Dst="1" />
-<file name="LoggerAwareInterface.php" server="kristabice.com//public_html/DGM3760/" local="131563719991508526" remote="131565040800000000" Dst="1" />
-<file name="AbstractLogger.php" server="kristabice.com//public_html/DGM3760/" local="131563719991298293" remote="131565040800000000" Dst="1" />
-<file name="LoggerInterface.php" server="kristabice.com//public_html/DGM3760/" local="131563719991518555" remote="131565040800000000" Dst="1" />
-<file name="LoggerTrait.php" server="kristabice.com//public_html/DGM3760/" local="131563719991528580" remote="131565040800000000" Dst="1" />
-<file name="LoggerAwareTrait.php" server="kristabice.com//public_html/DGM3760/" local="131563719991518555" remote="131565040800000000" Dst="1" />
-<file name="LogLevel.php" server="kristabice.com//public_html/DGM3760/" local="131563719991298293" remote="131565040800000000" Dst="1" />
-<file name="NullLogger.php" server="kristabice.com//public_html/DGM3760/" local="131563719991528580" remote="131565040800000000" Dst="1" />
+<file name="InvalidArgumentException.php" server="kristabice.com//public_html/DGM3760/" local="131563719991298293" remote="131565871200000000" Dst="1" />
+<file name="LoggerAwareInterface.php" server="kristabice.com//public_html/DGM3760/" local="131563719991508526" remote="131565871200000000" Dst="1" />
+<file name="AbstractLogger.php" server="kristabice.com//public_html/DGM3760/" local="131563719991298293" remote="131565871200000000" Dst="1" />
+<file name="LoggerInterface.php" server="kristabice.com//public_html/DGM3760/" local="131563719991518555" remote="131565871200000000" Dst="1" />
+<file name="LoggerTrait.php" server="kristabice.com//public_html/DGM3760/" local="131563719991528580" remote="131565871200000000" Dst="1" />
+<file name="LoggerAwareTrait.php" server="kristabice.com//public_html/DGM3760/" local="131563719991518555" remote="131565871200000000" Dst="1" />
+<file name="LogLevel.php" server="kristabice.com//public_html/DGM3760/" local="131563719991298293" remote="131565871200000000" Dst="1" />
+<file name="NullLogger.php" server="kristabice.com//public_html/DGM3760/" local="131563719991528580" remote="131565871200000000" Dst="1" />
 </dwsync>

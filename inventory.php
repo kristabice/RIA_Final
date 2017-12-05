@@ -44,8 +44,8 @@ $result = mysqli_query($dbconnection, $brand_query) or die ('query failed');
 				
 				echo '<br><p>Left in stock:  '.$row['stock'].'</p>';
 				echo '<div class="buttons">';
-				echo '<a class="update" href="updateItem.php?id='.$row['id'].'">Update Item</a>';
-				echo '<a class="delete" href="delete.php?id='.$row['id'].'">Delete Item</a>';
+				echo '<a class="update" href="updateItem.php?id='.$row['id'].'">Update</a>';
+				echo '<a class="delete" href="delete.php?id='.$row['id'].'">Delete</a>';
 				echo '</div>';//end buttons div
 				echo '</div>';//end inventory div
 			}

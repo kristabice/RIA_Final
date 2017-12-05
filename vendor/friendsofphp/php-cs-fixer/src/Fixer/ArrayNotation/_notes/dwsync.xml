@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="ArraySyntaxFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108237885" remote="131565034200000000" Dst="1" />
-<file name="NoMultilineWhitespaceAroundDoubleArrowFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108237885" remote="131565034200000000" Dst="1" />
-<file name="NormalizeIndexBraceFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108257692" remote="131565034200000000" Dst="1" />
-<file name="NoTrailingCommaInSinglelineArrayFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108247663" remote="131565034200000000" Dst="1" />
-<file name="NoWhitespaceBeforeCommaInArrayFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108247663" remote="131565034200000000" Dst="1" />
-<file name="TrailingCommaInMultilineArrayFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108257692" remote="131565034200000000" Dst="1" />
-<file name="TrimArraySpacesFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108257692" remote="131565034200000000" Dst="1" />
-<file name="WhitespaceAfterCommaInArrayFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108267716" remote="131565034200000000" Dst="1" />
+<file name="ArraySyntaxFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108237885" remote="131565862800000000" Dst="1" />
+<file name="NoMultilineWhitespaceAroundDoubleArrowFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108237885" remote="131565862800000000" Dst="1" />
+<file name="NormalizeIndexBraceFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108257692" remote="131565862800000000" Dst="1" />
+<file name="NoTrailingCommaInSinglelineArrayFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108247663" remote="131565862800000000" Dst="1" />
+<file name="NoWhitespaceBeforeCommaInArrayFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108247663" remote="131565862800000000" Dst="1" />
+<file name="TrailingCommaInMultilineArrayFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108257692" remote="131565862800000000" Dst="1" />
+<file name="TrimArraySpacesFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108257692" remote="131565862800000000" Dst="1" />
+<file name="WhitespaceAfterCommaInArrayFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108267716" remote="131565862800000000" Dst="1" />
 </dwsync>

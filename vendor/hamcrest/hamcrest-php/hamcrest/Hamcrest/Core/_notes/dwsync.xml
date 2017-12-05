@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="AllOf.php" server="kristabice.com//public_html/DGM3760/" local="131563719560889263" remote="131565035400000000" Dst="1" />
-<file name="AnyOf.php" server="kristabice.com//public_html/DGM3760/" local="131563719560889263" remote="131565035400000000" Dst="1" />
-<file name="CombinableMatcher.php" server="kristabice.com//public_html/DGM3760/" local="131563719560889263" remote="131565035400000000" Dst="1" />
-<file name="DescribedAs.php" server="kristabice.com//public_html/DGM3760/" local="131563719560899282" remote="131565035400000000" Dst="1" />
-<file name="Every.php" server="kristabice.com//public_html/DGM3760/" local="131563719560899282" remote="131565035400000000" Dst="1" />
-<file name="HasToString.php" server="kristabice.com//public_html/DGM3760/" local="131563719560909312" remote="131565035400000000" Dst="1" />
-<file name="Is.php" server="kristabice.com//public_html/DGM3760/" local="131563719560909312" remote="131565035400000000" Dst="1" />
-<file name="IsCollectionContaining.php" server="kristabice.com//public_html/DGM3760/" local="131563719560919372" remote="131565035400000000" Dst="1" />
-<file name="IsAnything.php" server="kristabice.com//public_html/DGM3760/" local="131563719560909312" remote="131565035400000000" Dst="1" />
-<file name="IsEqual.php" server="kristabice.com//public_html/DGM3760/" local="131563719560919372" remote="131565035400000000" Dst="1" />
-<file name="IsIdentical.php" server="kristabice.com//public_html/DGM3760/" local="131563719560919372" remote="131565035400000000" Dst="1" />
-<file name="IsInstanceOf.php" server="kristabice.com//public_html/DGM3760/" local="131563719560929365" remote="131565035400000000" Dst="1" />
-<file name="IsNot.php" server="kristabice.com//public_html/DGM3760/" local="131563719560929365" remote="131565035400000000" Dst="1" />
-<file name="IsNull.php" server="kristabice.com//public_html/DGM3760/" local="131563719560929365" remote="131565035400000000" Dst="1" />
-<file name="IsSame.php" server="kristabice.com//public_html/DGM3760/" local="131563719560939394" remote="131565035400000000" Dst="1" />
-<file name="IsTypeOf.php" server="kristabice.com//public_html/DGM3760/" local="131563719560939394" remote="131565035400000000" Dst="1" />
-<file name="Set.php" server="kristabice.com//public_html/DGM3760/" local="131563719560939394" remote="131565035400000000" Dst="1" />
-<file name="ShortcutCombination.php" server="kristabice.com//public_html/DGM3760/" local="131563719560949418" remote="131565035400000000" Dst="1" />
+<file name="AllOf.php" server="kristabice.com//public_html/DGM3760/" local="131563719560889263" remote="131565864600000000" Dst="1" />
+<file name="AnyOf.php" server="kristabice.com//public_html/DGM3760/" local="131563719560889263" remote="131565864600000000" Dst="1" />
+<file name="CombinableMatcher.php" server="kristabice.com//public_html/DGM3760/" local="131563719560889263" remote="131565864600000000" Dst="1" />
+<file name="DescribedAs.php" server="kristabice.com//public_html/DGM3760/" local="131563719560899282" remote="131565864600000000" Dst="1" />
+<file name="Every.php" server="kristabice.com//public_html/DGM3760/" local="131563719560899282" remote="131565864600000000" Dst="1" />
+<file name="HasToString.php" server="kristabice.com//public_html/DGM3760/" local="131563719560909312" remote="131565864600000000" Dst="1" />
+<file name="Is.php" server="kristabice.com//public_html/DGM3760/" local="131563719560909312" remote="131565864600000000" Dst="1" />
+<file name="IsCollectionContaining.php" server="kristabice.com//public_html/DGM3760/" local="131563719560919372" remote="131565864600000000" Dst="1" />
+<file name="IsAnything.php" server="kristabice.com//public_html/DGM3760/" local="131563719560909312" remote="131565864600000000" Dst="1" />
+<file name="IsEqual.php" server="kristabice.com//public_html/DGM3760/" local="131563719560919372" remote="131565864600000000" Dst="1" />
+<file name="IsIdentical.php" server="kristabice.com//public_html/DGM3760/" local="131563719560919372" remote="131565864600000000" Dst="1" />
+<file name="IsInstanceOf.php" server="kristabice.com//public_html/DGM3760/" local="131563719560929365" remote="131565864600000000" Dst="1" />
+<file name="IsNot.php" server="kristabice.com//public_html/DGM3760/" local="131563719560929365" remote="131565864600000000" Dst="1" />
+<file name="IsNull.php" server="kristabice.com//public_html/DGM3760/" local="131563719560929365" remote="131565864600000000" Dst="1" />
+<file name="IsSame.php" server="kristabice.com//public_html/DGM3760/" local="131563719560939394" remote="131565864600000000" Dst="1" />
+<file name="IsTypeOf.php" server="kristabice.com//public_html/DGM3760/" local="131563719560939394" remote="131565864600000000" Dst="1" />
+<file name="Set.php" server="kristabice.com//public_html/DGM3760/" local="131563719560939394" remote="131565864600000000" Dst="1" />
+<file name="ShortcutCombination.php" server="kristabice.com//public_html/DGM3760/" local="131563719560949418" remote="131565864600000000" Dst="1" />
 </dwsync>

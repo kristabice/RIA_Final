@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="DirectoryEmptyConstraint.php" server="kristabice.com//public_html/DGM3760/" local="131563720060979804" remote="131565035400000000" Dst="1" />
-<file name="FileExistsConstraint.php" server="kristabice.com//public_html/DGM3760/" local="131563720060979804" remote="131565035400000000" Dst="1" />
-<file name="FileIsLinkConstraint.php" server="kristabice.com//public_html/DGM3760/" local="131563720060979804" remote="131565035400000000" Dst="1" />
-<file name="FileIsValidLinkConstraint.php" server="kristabice.com//public_html/DGM3760/" local="131563720060989828" remote="131565035400000000" Dst="1" />
-<file name="FilePermissionsIsIdenticalConstraint.php" server="kristabice.com//public_html/DGM3760/" local="131563720060989828" remote="131565035400000000" Dst="1" />
-<file name="FilePermissionsMaskConstraint.php" server="kristabice.com//public_html/DGM3760/" local="131563720060999852" remote="131565035400000000" Dst="1" />
-<file name="NumberRangeConstraint.php" server="kristabice.com//public_html/DGM3760/" local="131563720060999852" remote="131565035400000000" Dst="1" />
-<file name="SameStringsConstraint.php" server="kristabice.com//public_html/DGM3760/" local="131563720060999852" remote="131565035400000000" Dst="1" />
-<file name="ScalarConstraint.php" server="kristabice.com//public_html/DGM3760/" local="131563720061009882" remote="131565035400000000" Dst="1" />
-<file name="UnsignedIntConstraint.php" server="kristabice.com//public_html/DGM3760/" local="131563720061009882" remote="131565035400000000" Dst="1" />
+<file name="DirectoryEmptyConstraint.php" server="kristabice.com//public_html/DGM3760/" local="131563720060979804" remote="131565864000000000" Dst="1" />
+<file name="FileExistsConstraint.php" server="kristabice.com//public_html/DGM3760/" local="131563720060979804" remote="131565864000000000" Dst="1" />
+<file name="FileIsLinkConstraint.php" server="kristabice.com//public_html/DGM3760/" local="131563720060979804" remote="131565864000000000" Dst="1" />
+<file name="FileIsValidLinkConstraint.php" server="kristabice.com//public_html/DGM3760/" local="131563720060989828" remote="131565864000000000" Dst="1" />
+<file name="FilePermissionsIsIdenticalConstraint.php" server="kristabice.com//public_html/DGM3760/" local="131563720060989828" remote="131565864000000000" Dst="1" />
+<file name="FilePermissionsMaskConstraint.php" server="kristabice.com//public_html/DGM3760/" local="131563720060999852" remote="131565864000000000" Dst="1" />
+<file name="NumberRangeConstraint.php" server="kristabice.com//public_html/DGM3760/" local="131563720060999852" remote="131565864000000000" Dst="1" />
+<file name="SameStringsConstraint.php" server="kristabice.com//public_html/DGM3760/" local="131563720060999852" remote="131565864000000000" Dst="1" />
+<file name="ScalarConstraint.php" server="kristabice.com//public_html/DGM3760/" local="131563720061009882" remote="131565864000000000" Dst="1" />
+<file name="UnsignedIntConstraint.php" server="kristabice.com//public_html/DGM3760/" local="131563720061009882" remote="131565864000000000" Dst="1" />
 </dwsync>

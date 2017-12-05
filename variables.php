@@ -1,11 +1,6 @@
 <?php
-
-define('HOST','localhost');
-define('USER','kristabi_admin');
-define('PASSWORD','HafpZ.X{+cl@');
-define('DB_NAME','kristabi_midterm');
-
-
-
-
+  define('HOST','localhost');
+  define('USER','root');
+  define('PASSWORD','');
+  define('DB_NAME','dgm3790');
 ?>

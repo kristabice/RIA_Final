@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="MetadataBag.php" server="kristabice.com//public_html/DGM3760/" local="131550976946287231" remote="131565042600000000" Dst="1" />
-<file name="MockArraySessionStorage.php" server="kristabice.com//public_html/DGM3760/" local="131550976946337508" remote="131565042600000000" Dst="1" />
-<file name="MockFileSessionStorage.php" server="kristabice.com//public_html/DGM3760/" local="131550976947237304" remote="131565042600000000" Dst="1" />
-<file name="NativeSessionStorage.php" server="kristabice.com//public_html/DGM3760/" local="131550976947567323" remote="131565042600000000" Dst="1" />
-<file name="PhpBridgeSessionStorage.php" server="kristabice.com//public_html/DGM3760/" local="131550976948117353" remote="131565042600000000" Dst="1" />
-<file name="SessionStorageInterface.php" server="kristabice.com//public_html/DGM3760/" local="131550976949397411" remote="131565042600000000" Dst="1" />
+<file name="MetadataBag.php" server="kristabice.com//public_html/DGM3760/" local="131550976946287231" remote="131565878400000000" Dst="1" />
+<file name="MockArraySessionStorage.php" server="kristabice.com//public_html/DGM3760/" local="131550976946337508" remote="131565878400000000" Dst="1" />
+<file name="MockFileSessionStorage.php" server="kristabice.com//public_html/DGM3760/" local="131550976947237304" remote="131565878400000000" Dst="1" />
+<file name="NativeSessionStorage.php" server="kristabice.com//public_html/DGM3760/" local="131550976947567323" remote="131565878400000000" Dst="1" />
+<file name="PhpBridgeSessionStorage.php" server="kristabice.com//public_html/DGM3760/" local="131550976948117353" remote="131565878400000000" Dst="1" />
+<file name="SessionStorageInterface.php" server="kristabice.com//public_html/DGM3760/" local="131550976949397411" remote="131565878400000000" Dst="1" />
 </dwsync>

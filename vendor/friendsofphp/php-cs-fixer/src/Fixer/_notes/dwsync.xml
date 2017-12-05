@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="ConfigurableFixerInterface.php" server="kristabice.com//public_html/DGM3760/" local="131563720108418114" remote="131565034200000000" Dst="1" />
-<file name="ConfigurationDefinitionFixerInterface.php" server="kristabice.com//public_html/DGM3760/" local="131563720108418114" remote="131565034200000000" Dst="1" />
-<file name="DefinedFixerInterface.php" server="kristabice.com//public_html/DGM3760/" local="131563720108473282" remote="131565034800000000" Dst="1" />
-<file name="DeprecatedFixerInterface.php" server="kristabice.com//public_html/DGM3760/" local="131563720108478294" remote="131565034800000000" Dst="1" />
-<file name="FixerInterface.php" server="kristabice.com//public_html/DGM3760/" local="131563720108503359" remote="131565034800000000" Dst="1" />
-<file name="WhitespacesAwareFixerInterface.php" server="kristabice.com//public_html/DGM3760/" local="131563720109872034" remote="131565034800000000" Dst="1" />
+<file name="ConfigurableFixerInterface.php" server="kristabice.com//public_html/DGM3760/" local="131563720108418114" remote="131565862800000000" Dst="1" />
+<file name="ConfigurationDefinitionFixerInterface.php" server="kristabice.com//public_html/DGM3760/" local="131563720108418114" remote="131565862800000000" Dst="1" />
+<file name="DefinedFixerInterface.php" server="kristabice.com//public_html/DGM3760/" local="131563720108473282" remote="131565862800000000" Dst="1" />
+<file name="DeprecatedFixerInterface.php" server="kristabice.com//public_html/DGM3760/" local="131563720108478294" remote="131565862800000000" Dst="1" />
+<file name="FixerInterface.php" server="kristabice.com//public_html/DGM3760/" local="131563720108503359" remote="131565862800000000" Dst="1" />
+<file name="WhitespacesAwareFixerInterface.php" server="kristabice.com//public_html/DGM3760/" local="131563720109872034" remote="131565863400000000" Dst="1" />
 </dwsync>

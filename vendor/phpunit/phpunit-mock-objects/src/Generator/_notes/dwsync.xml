@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="deprecation.tpl.dist" server="kristabice.com//public_html/DGM3760/" local="131563718949199042" remote="131565040800000000" Dst="1" />
-<file name="mocked_class.tpl.dist" server="kristabice.com//public_html/DGM3760/" local="131563718949209071" remote="131565040800000000" Dst="1" />
-<file name="mocked_class_method.tpl.dist" server="kristabice.com//public_html/DGM3760/" local="131563718949209071" remote="131565040800000000" Dst="1" />
-<file name="mocked_clone.tpl.dist" server="kristabice.com//public_html/DGM3760/" local="131563718949209071" remote="131565040800000000" Dst="1" />
-<file name="mocked_method.tpl.dist" server="kristabice.com//public_html/DGM3760/" local="131563718949219095" remote="131565040800000000" Dst="1" />
-<file name="mocked_method_void.tpl.dist" server="kristabice.com//public_html/DGM3760/" local="131563718949219095" remote="131565040800000000" Dst="1" />
-<file name="mocked_static_method.tpl.dist" server="kristabice.com//public_html/DGM3760/" local="131563718949229124" remote="131565040800000000" Dst="1" />
-<file name="proxied_method_void.tpl.dist" server="kristabice.com//public_html/DGM3760/" local="131563718949229124" remote="131565040800000000" Dst="1" />
-<file name="proxied_method.tpl.dist" server="kristabice.com//public_html/DGM3760/" local="131563718949229124" remote="131565040800000000" Dst="1" />
-<file name="trait_class.tpl.dist" server="kristabice.com//public_html/DGM3760/" local="131563718949239149" remote="131565040800000000" Dst="1" />
-<file name="wsdl_class.tpl.dist" server="kristabice.com//public_html/DGM3760/" local="131563718949239149" remote="131565040800000000" Dst="1" />
-<file name="unmocked_clone.tpl.dist" server="kristabice.com//public_html/DGM3760/" local="131563718949239149" remote="131565040800000000" Dst="1" />
-<file name="wsdl_method.tpl.dist" server="kristabice.com//public_html/DGM3760/" local="131563718949249173" remote="131565040800000000" Dst="1" />
+<file name="deprecation.tpl.dist" server="kristabice.com//public_html/DGM3760/" local="131563718949199042" remote="131565870600000000" Dst="1" />
+<file name="mocked_class.tpl.dist" server="kristabice.com//public_html/DGM3760/" local="131563718949209071" remote="131565870600000000" Dst="1" />
+<file name="mocked_class_method.tpl.dist" server="kristabice.com//public_html/DGM3760/" local="131563718949209071" remote="131565870600000000" Dst="1" />
+<file name="mocked_clone.tpl.dist" server="kristabice.com//public_html/DGM3760/" local="131563718949209071" remote="131565870600000000" Dst="1" />
+<file name="mocked_method.tpl.dist" server="kristabice.com//public_html/DGM3760/" local="131563718949219095" remote="131565870600000000" Dst="1" />
+<file name="mocked_method_void.tpl.dist" server="kristabice.com//public_html/DGM3760/" local="131563718949219095" remote="131565870600000000" Dst="1" />
+<file name="mocked_static_method.tpl.dist" server="kristabice.com//public_html/DGM3760/" local="131563718949229124" remote="131565870600000000" Dst="1" />
+<file name="proxied_method_void.tpl.dist" server="kristabice.com//public_html/DGM3760/" local="131563718949229124" remote="131565870600000000" Dst="1" />
+<file name="proxied_method.tpl.dist" server="kristabice.com//public_html/DGM3760/" local="131563718949229124" remote="131565870600000000" Dst="1" />
+<file name="trait_class.tpl.dist" server="kristabice.com//public_html/DGM3760/" local="131563718949239149" remote="131565870600000000" Dst="1" />
+<file name="wsdl_class.tpl.dist" server="kristabice.com//public_html/DGM3760/" local="131563718949239149" remote="131565870600000000" Dst="1" />
+<file name="unmocked_clone.tpl.dist" server="kristabice.com//public_html/DGM3760/" local="131563718949239149" remote="131565870600000000" Dst="1" />
+<file name="wsdl_method.tpl.dist" server="kristabice.com//public_html/DGM3760/" local="131563718949249173" remote="131565870600000000" Dst="1" />
 </dwsync>

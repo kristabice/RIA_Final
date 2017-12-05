@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="ClassDefinitionFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108347929" remote="131565034200000000" Dst="1" />
-<file name="MethodSeparationFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108347929" remote="131565034200000000" Dst="1" />
-<file name="NoBlankLinesAfterClassOpeningFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108357959" remote="131565034200000000" Dst="1" />
-<file name="NoUnneededFinalMethodFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108367983" remote="131565034200000000" Dst="1" />
-<file name="NoNullPropertyInitializationFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108357959" remote="131565034200000000" Dst="1" />
-<file name="NoPhp4ConstructorFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108367983" remote="131565034200000000" Dst="1" />
-<file name="OrderedClassElementsFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108367983" remote="131565034200000000" Dst="1" />
-<file name="ProtectedToPrivateFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108378012" remote="131565034200000000" Dst="1" />
-<file name="SelfAccessorFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108378012" remote="131565034200000000" Dst="1" />
-<file name="VisibilityRequiredFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108388036" remote="131565034200000000" Dst="1" />
-<file name="SingleClassElementPerStatementFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108378012" remote="131565034200000000" Dst="1" />
+<file name="ClassDefinitionFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108347929" remote="131565862800000000" Dst="1" />
+<file name="MethodSeparationFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108347929" remote="131565862800000000" Dst="1" />
+<file name="NoBlankLinesAfterClassOpeningFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108357959" remote="131565862800000000" Dst="1" />
+<file name="NoUnneededFinalMethodFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108367983" remote="131565862800000000" Dst="1" />
+<file name="NoNullPropertyInitializationFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108357959" remote="131565862800000000" Dst="1" />
+<file name="NoPhp4ConstructorFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108367983" remote="131565862800000000" Dst="1" />
+<file name="OrderedClassElementsFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108367983" remote="131565862800000000" Dst="1" />
+<file name="ProtectedToPrivateFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108378012" remote="131565862800000000" Dst="1" />
+<file name="SelfAccessorFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108378012" remote="131565862800000000" Dst="1" />
+<file name="VisibilityRequiredFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108388036" remote="131565862800000000" Dst="1" />
+<file name="SingleClassElementPerStatementFixer.php" server="kristabice.com//public_html/DGM3760/" local="131563720108378012" remote="131565862800000000" Dst="1" />
 </dwsync>

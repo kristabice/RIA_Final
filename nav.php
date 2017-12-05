@@ -1,5 +1,5 @@
     <header>
-		<?php session_start(); ?>
+		
     <div class="logo"><a href="index.php"><img src="img/water_bottle_r_us.png" alt="logo"></a></div>
 		<?php
    			$admin = 'admin';
@@ -16,9 +16,12 @@
 			
 				if($_SESSION['username']=== $admin ){
 					echo '<li><a href="inventory.php">Inventory</a></li>';
+					echo '<li><a href="orders.php">Orders</a></li>';
 				}
+				
 				echo '<li><a href="signOut.php">Logout</a></li>';
-			}
+				}
+			
 			else{
 				echo '<li><a href="signIn.php">Login</a></li>';
 

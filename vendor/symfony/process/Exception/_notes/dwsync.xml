@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="ExceptionInterface.php" server="kristabice.com//public_html/DGM3760/" local="131563719919864359" remote="131565043200000000" Dst="1" />
-<file name="InvalidArgumentException.php" server="kristabice.com//public_html/DGM3760/" local="131563719919864359" remote="131565043200000000" Dst="1" />
-<file name="LogicException.php" server="kristabice.com//public_html/DGM3760/" local="131563719919869376" remote="131565043200000000" Dst="1" />
-<file name="ProcessTimedOutException.php" server="kristabice.com//public_html/DGM3760/" local="131563719919879400" remote="131565043200000000" Dst="1" />
-<file name="RuntimeException.php" server="kristabice.com//public_html/DGM3760/" local="131563719919879400" remote="131565043200000000" Dst="1" />
-<file name="ProcessFailedException.php" server="kristabice.com//public_html/DGM3760/" local="131563719919874388" remote="131565043200000000" Dst="1" />
+<file name="ExceptionInterface.php" server="kristabice.com//public_html/DGM3760/" local="131563719919864359" remote="131565879000000000" Dst="1" />
+<file name="InvalidArgumentException.php" server="kristabice.com//public_html/DGM3760/" local="131563719919864359" remote="131565879000000000" Dst="1" />
+<file name="LogicException.php" server="kristabice.com//public_html/DGM3760/" local="131563719919869376" remote="131565879000000000" Dst="1" />
+<file name="ProcessTimedOutException.php" server="kristabice.com//public_html/DGM3760/" local="131563719919879400" remote="131565879000000000" Dst="1" />
+<file name="RuntimeException.php" server="kristabice.com//public_html/DGM3760/" local="131563719919879400" remote="131565879000000000" Dst="1" />
+<file name="ProcessFailedException.php" server="kristabice.com//public_html/DGM3760/" local="131563719919874388" remote="131565879000000000" Dst="1" />
 </dwsync>

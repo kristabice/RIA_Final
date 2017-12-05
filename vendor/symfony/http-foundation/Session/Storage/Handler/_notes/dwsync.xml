@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="MemcachedSessionHandler.php" server="kristabice.com//public_html/DGM3760/" local="131550976943487545" remote="131565042600000000" Dst="1" />
-<file name="MemcacheSessionHandler.php" server="kristabice.com//public_html/DGM3760/" local="131550976942757071" remote="131565042600000000" Dst="1" />
-<file name="MongoDbSessionHandler.php" server="kristabice.com//public_html/DGM3760/" local="131550976944357161" remote="131565042600000000" Dst="1" />
-<file name="NativeFileSessionHandler.php" server="kristabice.com//public_html/DGM3760/" local="131550976944417138" remote="131565042600000000" Dst="1" />
-<file name="NativeSessionHandler.php" server="kristabice.com//public_html/DGM3760/" local="131550976944637612" remote="131565042600000000" Dst="1" />
-<file name="NullSessionHandler.php" server="kristabice.com//public_html/DGM3760/" local="131550976944697154" remote="131565042600000000" Dst="1" />
-<file name="WriteCheckSessionHandler.php" server="kristabice.com//public_html/DGM3760/" local="131550976946227249" remote="131565042600000000" Dst="1" />
-<file name="PdoSessionHandler.php" server="kristabice.com//public_html/DGM3760/" local="131550976945647539" remote="131565042600000000" Dst="1" />
+<file name="MemcachedSessionHandler.php" server="kristabice.com//public_html/DGM3760/" local="131550976943487545" remote="131565878400000000" Dst="1" />
+<file name="MemcacheSessionHandler.php" server="kristabice.com//public_html/DGM3760/" local="131550976942757071" remote="131565878400000000" Dst="1" />
+<file name="MongoDbSessionHandler.php" server="kristabice.com//public_html/DGM3760/" local="131550976944357161" remote="131565878400000000" Dst="1" />
+<file name="NativeFileSessionHandler.php" server="kristabice.com//public_html/DGM3760/" local="131550976944417138" remote="131565878400000000" Dst="1" />
+<file name="NativeSessionHandler.php" server="kristabice.com//public_html/DGM3760/" local="131550976944637612" remote="131565878400000000" Dst="1" />
+<file name="NullSessionHandler.php" server="kristabice.com//public_html/DGM3760/" local="131550976944697154" remote="131565878400000000" Dst="1" />
+<file name="WriteCheckSessionHandler.php" server="kristabice.com//public_html/DGM3760/" local="131550976946227249" remote="131565878400000000" Dst="1" />
+<file name="PdoSessionHandler.php" server="kristabice.com//public_html/DGM3760/" local="131550976945647539" remote="131565878400000000" Dst="1" />
 </dwsync>

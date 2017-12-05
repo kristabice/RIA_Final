@@ -1,5 +1,8 @@
 <?php
 session_start();
+
+
+
 if (isset($_POST['submitCard'])){
 $name = $_POST['cardName'];
 $number = $_POST['cardNumber'];
@@ -26,53 +29,12 @@ $result = mysqli_query($dbconnection, $query) or die ('query failed');
 
 }
 
+//$cart = new Cart($id, $cartSessionStore);
+ 				
 
-$email = $_SESSION['email'];
-
-echo $email;
-$name = $_SESSION['name'];
-$body = "Got it! your order of an  ".$_SESSION['model'].' '.$_SESSION['brand']." has been processed! Your order will be on its way soon!!";
- $sender = 'Water Bottles R Us';
-
-  $to = "bubgirl17@gmail"; //recipient
-
-  $subject = "Confirmation Email"; //subject
-  $header = "From: ". $sender . " <" . $to . ">\r\n";
 	
 	 // if (mail($email, $subject, $body, $header)){
-	  if (true){
-		//include'thanks.php';
-		  echo 'hello world';
 
-	  	session_destroy();
-
-	  
-  } else {
-		echo 'Error: something went wrong.';
-	  }
-/*
-		session_unset('cardNum');
-
-
-	$email = $_SESSION['email'];
-	$name = $_SESSION['name'];
-	$body = "Sorry your order of an  ".$_SESSION['model'].' '.$_SESSION['brand']." was not proccessed! Please try a different payment method!!";
-
-
-	  $to = "bubgirl17@gmail"; //recipient
-
-	  $subject = "Payment Declined"; //subject
-	  $header = "From: ". $sender . " <" . $to . ">\r\n";
-
-	  if (mail($email, $subject, $body, $header)){
-			include'thanks.php';
-
-
-	  } else {
-			echo 'Error: something went wrong.';
-		  }
-
-*/
 ?> 
  <?php include_once('header.php');?>
     <title>Checkout - Card</title>
@@ -82,7 +44,7 @@ $body = "Got it! your order of an  ".$_SESSION['model'].' '.$_SESSION['brand']."
     <?php include_once('nav.php'); ?>
     <div id="home" class="container">
      <div id="main">
-     <p>Thanks for visiting Water Bottles R Us! Your order is being proccessed! You will hear from us soon!</p>
+     <p>Thanks for visiting Water Bottles R Us! Your order of <?php echo $_SESSION['price']; ?> is being proccessed! You will hear from us soon!</p>
      <a href="shopping.php">Back to Shopping</a>
      <a href="contact.php">Contact Us</a>
    <br>

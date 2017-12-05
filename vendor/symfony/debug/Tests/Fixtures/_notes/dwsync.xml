@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="casemismatch.php" server="kristabice.com//public_html/DGM3760/" local="131563720006983938" remote="131565042000000000" Dst="1" />
-<file name="DeprecatedInterface.php" server="kristabice.com//public_html/DGM3760/" local="131563720006955758" remote="131565042000000000" Dst="1" />
-<file name="DeprecatedClass.php" server="kristabice.com//public_html/DGM3760/" local="131563720006562222" remote="131565042000000000" Dst="1" />
-<file name="ExtendedFinalMethod.php" server="kristabice.com//public_html/DGM3760/" local="131563720006963864" remote="131565042000000000" Dst="1" />
-<file name="ClassAlias.php" server="kristabice.com//public_html/DGM3760/" local="131563720006562222" remote="131565042000000000" Dst="1" />
-<file name="FinalClass.php" server="kristabice.com//public_html/DGM3760/" local="131563720006963864" remote="131565042000000000" Dst="1" />
-<file name="NonDeprecatedInterface.php" server="kristabice.com//public_html/DGM3760/" local="131563720006973914" remote="131565042000000000" Dst="1" />
-<file name="FinalMethod.php" server="kristabice.com//public_html/DGM3760/" local="131563720006963864" remote="131565042000000000" Dst="1" />
-<file name="notPsr0Bis.php" server="kristabice.com//public_html/DGM3760/" local="131563720006983938" remote="131565042000000000" Dst="1" />
-<file name="PEARClass.php" server="kristabice.com//public_html/DGM3760/" local="131563720006973914" remote="131565042000000000" Dst="1" />
-<file name="reallyNotPsr0.php" server="kristabice.com//public_html/DGM3760/" local="131563720006993967" remote="131565042000000000" Dst="1" />
-<file name="Throwing.php" server="kristabice.com//public_html/DGM3760/" local="131563720006973914" remote="131565042000000000" Dst="1" />
-<file name="ToStringThrower.php" server="kristabice.com//public_html/DGM3760/" local="131563720006983938" remote="131565042000000000" Dst="1" />
+<file name="casemismatch.php" server="kristabice.com//public_html/DGM3760/" local="131563720006983938" remote="131565877800000000" Dst="1" />
+<file name="DeprecatedInterface.php" server="kristabice.com//public_html/DGM3760/" local="131563720006955758" remote="131565877800000000" Dst="1" />
+<file name="DeprecatedClass.php" server="kristabice.com//public_html/DGM3760/" local="131563720006562222" remote="131565877800000000" Dst="1" />
+<file name="ExtendedFinalMethod.php" server="kristabice.com//public_html/DGM3760/" local="131563720006963864" remote="131565877800000000" Dst="1" />
+<file name="ClassAlias.php" server="kristabice.com//public_html/DGM3760/" local="131563720006562222" remote="131565877800000000" Dst="1" />
+<file name="FinalClass.php" server="kristabice.com//public_html/DGM3760/" local="131563720006963864" remote="131565877800000000" Dst="1" />
+<file name="NonDeprecatedInterface.php" server="kristabice.com//public_html/DGM3760/" local="131563720006973914" remote="131565877800000000" Dst="1" />
+<file name="FinalMethod.php" server="kristabice.com//public_html/DGM3760/" local="131563720006963864" remote="131565877800000000" Dst="1" />
+<file name="notPsr0Bis.php" server="kristabice.com//public_html/DGM3760/" local="131563720006983938" remote="131565877800000000" Dst="1" />
+<file name="PEARClass.php" server="kristabice.com//public_html/DGM3760/" local="131563720006973914" remote="131565877800000000" Dst="1" />
+<file name="reallyNotPsr0.php" server="kristabice.com//public_html/DGM3760/" local="131563720006993967" remote="131565877800000000" Dst="1" />
+<file name="Throwing.php" server="kristabice.com//public_html/DGM3760/" local="131563720006973914" remote="131565877800000000" Dst="1" />
+<file name="ToStringThrower.php" server="kristabice.com//public_html/DGM3760/" local="131563720006983938" remote="131565877800000000" Dst="1" />
 </dwsync>

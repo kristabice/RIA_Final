@@ -1,7 +1,7 @@
 
 <?php
-//session_start();
-
+session_start();
+//require_once('cartStuff.php');
 require_once('variables.php');
 $model = $_GET['model'];
 
@@ -35,7 +35,7 @@ $price = $row['price'];
 			Back to Shop
 		</div></a>
 		<img src="img/<?php echo $row['image'] ?>"  />
-		<form method="post" action="confirmItems.php">
+		<form method="post" action="confirmItems.php" enctype="multipart/form-data">
 			<h1><?php echo $row['brand'] ?></h1>
 	
 			<h2><?php echo $row['model'] ?></h2>
@@ -68,6 +68,7 @@ $price = $row['price'];
 			<input type="hidden" name="model" value="<?php echo $row['model']; ?>">
 			<input type="hidden" name="id" value="<?php echo $row['id']; ?>">
 			<input type="hidden" name="price" value="<?php echo $row['price']; ?>">
+			<input type="hidden" name="photo" value="<?php echo $row['image']; ?>">
 		   
 
 

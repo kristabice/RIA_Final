@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="CsvFileLoaderTest.php" server="kristabice.com//public_html/DGM3760/" local="131550976829762305" remote="131565043200000000" Dst="1" />
-<file name="IcuDatFileLoaderTest.php" server="kristabice.com//public_html/DGM3760/" local="131550976830272392" remote="131565043200000000" Dst="1" />
-<file name="IniFileLoaderTest.php" server="kristabice.com//public_html/DGM3760/" local="131550976831312425" remote="131565043200000000" Dst="1" />
-<file name="JsonFileLoaderTest.php" server="kristabice.com//public_html/DGM3760/" local="131550976831362751" remote="131565043200000000" Dst="1" />
-<file name="IcuResFileLoaderTest.php" server="kristabice.com//public_html/DGM3760/" local="131550976830802543" remote="131565043200000000" Dst="1" />
-<file name="MoFileLoaderTest.php" server="kristabice.com//public_html/DGM3760/" local="131550976832092931" remote="131565043200000000" Dst="1" />
-<file name="PhpFileLoaderTest.php" server="kristabice.com//public_html/DGM3760/" local="131550976832542934" remote="131565043200000000" Dst="1" />
-<file name="LocalizedTestCase.php" server="kristabice.com//public_html/DGM3760/" local="131550976831572871" remote="131565043200000000" Dst="1" />
-<file name="PoFileLoaderTest.php" server="kristabice.com//public_html/DGM3760/" local="131550976833222983" remote="131565043200000000" Dst="1" />
-<file name="QtFileLoaderTest.php" server="kristabice.com//public_html/DGM3760/" local="131550976833272527" remote="131565043200000000" Dst="1" />
-<file name="XliffFileLoaderTest.php" server="kristabice.com//public_html/DGM3760/" local="131550976833322810" remote="131565043200000000" Dst="1" />
-<file name="YamlFileLoaderTest.php" server="kristabice.com//public_html/DGM3760/" local="131550976833832535" remote="131565043200000000" Dst="1" />
+<file name="CsvFileLoaderTest.php" server="kristabice.com//public_html/DGM3760/" local="131550976829762305" remote="131565879600000000" Dst="1" />
+<file name="IcuDatFileLoaderTest.php" server="kristabice.com//public_html/DGM3760/" local="131550976830272392" remote="131565879600000000" Dst="1" />
+<file name="IniFileLoaderTest.php" server="kristabice.com//public_html/DGM3760/" local="131550976831312425" remote="131565879600000000" Dst="1" />
+<file name="JsonFileLoaderTest.php" server="kristabice.com//public_html/DGM3760/" local="131550976831362751" remote="131565879600000000" Dst="1" />
+<file name="IcuResFileLoaderTest.php" server="kristabice.com//public_html/DGM3760/" local="131550976830802543" remote="131565879600000000" Dst="1" />
+<file name="MoFileLoaderTest.php" server="kristabice.com//public_html/DGM3760/" local="131550976832092931" remote="131565879600000000" Dst="1" />
+<file name="PhpFileLoaderTest.php" server="kristabice.com//public_html/DGM3760/" local="131550976832542934" remote="131565879600000000" Dst="1" />
+<file name="LocalizedTestCase.php" server="kristabice.com//public_html/DGM3760/" local="131550976831572871" remote="131565879600000000" Dst="1" />
+<file name="PoFileLoaderTest.php" server="kristabice.com//public_html/DGM3760/" local="131550976833222983" remote="131565879600000000" Dst="1" />
+<file name="QtFileLoaderTest.php" server="kristabice.com//public_html/DGM3760/" local="131550976833272527" remote="131565879600000000" Dst="1" />
+<file name="XliffFileLoaderTest.php" server="kristabice.com//public_html/DGM3760/" local="131550976833322810" remote="131565879600000000" Dst="1" />
+<file name="YamlFileLoaderTest.php" server="kristabice.com//public_html/DGM3760/" local="131550976833832535" remote="131565879600000000" Dst="1" />
 </dwsync>

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="AllOfTest.php" server="kristabice.com//public_html/DGM3760/" local="131563719561159976" remote="131565036000000000" Dst="1" />
-<file name="AnyOfTest.php" server="kristabice.com//public_html/DGM3760/" local="131563719561159976" remote="131565036000000000" Dst="1" />
-<file name="CombinableMatcherTest.php" server="kristabice.com//public_html/DGM3760/" local="131563719561170005" remote="131565036000000000" Dst="1" />
-<file name="DescribedAsTest.php" server="kristabice.com//public_html/DGM3760/" local="131563719561170005" remote="131565036000000000" Dst="1" />
-<file name="EveryTest.php" server="kristabice.com//public_html/DGM3760/" local="131563719561170005" remote="131565036000000000" Dst="1" />
-<file name="HasToStringTest.php" server="kristabice.com//public_html/DGM3760/" local="131563719561180034" remote="131565036000000000" Dst="1" />
-<file name="IsAnythingTest.php" server="kristabice.com//public_html/DGM3760/" local="131563719561180034" remote="131565036000000000" Dst="1" />
-<file name="IsCollectionContainingTest.php" server="kristabice.com//public_html/DGM3760/" local="131563719561180034" remote="131565036000000000" Dst="1" />
-<file name="IsEqualTest.php" server="kristabice.com//public_html/DGM3760/" local="131563719561190058" remote="131565036000000000" Dst="1" />
-<file name="IsIdenticalTest.php" server="kristabice.com//public_html/DGM3760/" local="131563719561190058" remote="131565036000000000" Dst="1" />
-<file name="IsInstanceOfTest.php" server="kristabice.com//public_html/DGM3760/" local="131563719561190058" remote="131565036000000000" Dst="1" />
-<file name="IsNotTest.php" server="kristabice.com//public_html/DGM3760/" local="131563719561200087" remote="131565036000000000" Dst="1" />
-<file name="IsNullTest.php" server="kristabice.com//public_html/DGM3760/" local="131563719561200087" remote="131565036000000000" Dst="1" />
-<file name="IsTest.php" server="kristabice.com//public_html/DGM3760/" local="131563719561210112" remote="131565036000000000" Dst="1" />
-<file name="IsTypeOfTest.php" server="kristabice.com//public_html/DGM3760/" local="131563719561210112" remote="131565036000000000" Dst="1" />
-<file name="IsSameTest.php" server="kristabice.com//public_html/DGM3760/" local="131563719561200087" remote="131565036000000000" Dst="1" />
-<file name="SampleBaseClass.php" server="kristabice.com//public_html/DGM3760/" local="131563719561210112" remote="131565036000000000" Dst="1" />
-<file name="SampleSubClass.php" server="kristabice.com//public_html/DGM3760/" local="131563719561220141" remote="131565036000000000" Dst="1" />
-<file name="SetTest.php" server="kristabice.com//public_html/DGM3760/" local="131563719561220141" remote="131565036000000000" Dst="1" />
+<file name="AllOfTest.php" server="kristabice.com//public_html/DGM3760/" local="131563719561159976" remote="131565864600000000" Dst="1" />
+<file name="AnyOfTest.php" server="kristabice.com//public_html/DGM3760/" local="131563719561159976" remote="131565864600000000" Dst="1" />
+<file name="CombinableMatcherTest.php" server="kristabice.com//public_html/DGM3760/" local="131563719561170005" remote="131565864600000000" Dst="1" />
+<file name="DescribedAsTest.php" server="kristabice.com//public_html/DGM3760/" local="131563719561170005" remote="131565864600000000" Dst="1" />
+<file name="EveryTest.php" server="kristabice.com//public_html/DGM3760/" local="131563719561170005" remote="131565864600000000" Dst="1" />
+<file name="HasToStringTest.php" server="kristabice.com//public_html/DGM3760/" local="131563719561180034" remote="131565864600000000" Dst="1" />
+<file name="IsAnythingTest.php" server="kristabice.com//public_html/DGM3760/" local="131563719561180034" remote="131565864600000000" Dst="1" />
+<file name="IsCollectionContainingTest.php" server="kristabice.com//public_html/DGM3760/" local="131563719561180034" remote="131565864600000000" Dst="1" />
+<file name="IsEqualTest.php" server="kristabice.com//public_html/DGM3760/" local="131563719561190058" remote="131565864600000000" Dst="1" />
+<file name="IsIdenticalTest.php" server="kristabice.com//public_html/DGM3760/" local="131563719561190058" remote="131565864600000000" Dst="1" />
+<file name="IsInstanceOfTest.php" server="kristabice.com//public_html/DGM3760/" local="131563719561190058" remote="131565864600000000" Dst="1" />
+<file name="IsNotTest.php" server="kristabice.com//public_html/DGM3760/" local="131563719561200087" remote="131565864600000000" Dst="1" />
+<file name="IsNullTest.php" server="kristabice.com//public_html/DGM3760/" local="131563719561200087" remote="131565864600000000" Dst="1" />
+<file name="IsTest.php" server="kristabice.com//public_html/DGM3760/" local="131563719561210112" remote="131565864600000000" Dst="1" />
+<file name="IsTypeOfTest.php" server="kristabice.com//public_html/DGM3760/" local="131563719561210112" remote="131565864600000000" Dst="1" />
+<file name="IsSameTest.php" server="kristabice.com//public_html/DGM3760/" local="131563719561200087" remote="131565864600000000" Dst="1" />
+<file name="SampleBaseClass.php" server="kristabice.com//public_html/DGM3760/" local="131563719561210112" remote="131565864600000000" Dst="1" />
+<file name="SampleSubClass.php" server="kristabice.com//public_html/DGM3760/" local="131563719561220141" remote="131565864600000000" Dst="1" />
+<file name="SetTest.php" server="kristabice.com//public_html/DGM3760/" local="131563719561220141" remote="131565864600000000" Dst="1" />
 </dwsync>

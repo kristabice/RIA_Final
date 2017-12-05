@@ -1,17 +1,14 @@
 //for all forms
-#incrament{
-	font-size: 1.5em;
-	color: #cccccc;
-	float: left;
-	padding: 0 .7em;
+
+
+
+
 	
-}
-	
-	.counter{
+.counter{
 		font-size: .8em;
 		width: 0;
 		height: 0;
-	}
+		}
 .cartButton {
     background: $accent-color;
     color: #fff;
@@ -43,24 +40,99 @@ hr{
 		margin-top: 5em;
 	}
 }// end of header display
+#end{
+	margin-left:2em;
+	
+	font-weight: $heavy-font;
+}
+h1#quanitityH1{
+	width: 4%;
+	float: left;
+}
+.quantitiy{
+	i{
+		float: left;
+		margin-top: .7em;
+		font-size: 1.2em;
+	}
+	h1{
+		width: 2%;
+	}
+	margin-left: 4em;
+	padding: 1em;
+	font-size: 1em;
+	color: $accent-color;
+	font-weight: $heavy-font;
+
+}
+#Price{
+	padding: 1em;
+	font-size: 1em;
+	color: $accent-color;
+	font-weight: $heavy-font;
+}
+.row.totalDisplay{
+	width: 100%;
+}
+#total{
+	margin-top: 2em;
+	width: 40%;
+	float: right;
+	text-align: right;
+	
+}
+
+	.row{
+		
+		width: 16%;
+		float: left;
+		
+		
+		h1{
+			width: 100%;
+			color: $accent-color;
+
+		}
+	}
+.remove{
+	float: left;
+	width: 5%;
+	margin-top: 10%;
+	padding: .35em;
+	
+	i{
+		color: #cccccc;
+		font-size: 1.3em;
+		
+	
+	}
+	
+	 i:hover{
+		color: $accent-color;
+	}
+}
+
+
 
 .cartDisplay{
-	display: flex;
-	margin: auto;
-	
+
+	margin-top:4em;
 	#button{
 		width: 3%	
 		}
-	.column{
-		margin: 4em auto;
-		width: 18%;
-		float: left;
+	
+	//.column{
+		//margin: 4em auto;
+		//width: 120px;
+		//float: left;
+		//flex-direction: column;
 		//margin-right: 10%;
 		//margin-top: 3.5em;
 		
 	img{
-		width: 100%;
+		width: 25%;
 		border:  1.5px solid #CCCCCC;
+		float: left;
 		
 	}
 		h1{
@@ -75,18 +147,12 @@ hr{
 			font-size: .7em;
 	
 }
-		.remove{
-			font-size: 2em;
-			color: #cccccc;
-			
-			i{
-				float: right;
-			}
-		}
-	}
+		
+	//}
 	
 
-}
+}// end of cart display
+
 //Checkout Scss
 #card{
 	

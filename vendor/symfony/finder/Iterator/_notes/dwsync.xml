@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="CustomFilterIterator.php" server="kristabice.com//public_html/DGM3760/" local="131550976982570931" remote="131565042000000000" Dst="1" />
-<file name="DateRangeFilterIterator.php" server="kristabice.com//public_html/DGM3760/" local="131550976983030937" remote="131565042000000000" Dst="1" />
-<file name="DepthRangeFilterIterator.php" server="kristabice.com//public_html/DGM3760/" local="131550976983090962" remote="131565042000000000" Dst="1" />
-<file name="ExcludeDirectoryFilterIterator.php" server="kristabice.com//public_html/DGM3760/" local="131550976983411708" remote="131565042000000000" Dst="1" />
-<file name="FilecontentFilterIterator.php" server="kristabice.com//public_html/DGM3760/" local="131550976984211066" remote="131565042000000000" Dst="1" />
-<file name="FilenameFilterIterator.php" server="kristabice.com//public_html/DGM3760/" local="131550976984271042" remote="131565042000000000" Dst="1" />
-<file name="MultiplePcreFilterIterator.php" server="kristabice.com//public_html/DGM3760/" local="131550976984631456" remote="131565042000000000" Dst="1" />
-<file name="FileTypeFilterIterator.php" server="kristabice.com//public_html/DGM3760/" local="131550976983730977" remote="131565042000000000" Dst="1" />
-<file name="FilterIterator.php" server="kristabice.com//public_html/DGM3760/" local="131550976984321496" remote="131565042000000000" Dst="1" />
-<file name="RecursiveDirectoryIterator.php" server="kristabice.com//public_html/DGM3760/" local="131550976985923013" remote="131565042000000000" Dst="1" />
-<file name="SizeRangeFilterIterator.php" server="kristabice.com//public_html/DGM3760/" local="131550976986652748" remote="131565042000000000" Dst="1" />
-<file name="PathFilterIterator.php" server="kristabice.com//public_html/DGM3760/" local="131550976985692683" remote="131565042000000000" Dst="1" />
-<file name="SortableIterator.php" server="kristabice.com//public_html/DGM3760/" local="131550976986712754" remote="131565042000000000" Dst="1" />
+<file name="CustomFilterIterator.php" server="kristabice.com//public_html/DGM3760/" local="131550976982570931" remote="131565877800000000" Dst="1" />
+<file name="DateRangeFilterIterator.php" server="kristabice.com//public_html/DGM3760/" local="131550976983030937" remote="131565877800000000" Dst="1" />
+<file name="DepthRangeFilterIterator.php" server="kristabice.com//public_html/DGM3760/" local="131550976983090962" remote="131565877800000000" Dst="1" />
+<file name="ExcludeDirectoryFilterIterator.php" server="kristabice.com//public_html/DGM3760/" local="131550976983411708" remote="131565877800000000" Dst="1" />
+<file name="FilecontentFilterIterator.php" server="kristabice.com//public_html/DGM3760/" local="131550976984211066" remote="131565877800000000" Dst="1" />
+<file name="FilenameFilterIterator.php" server="kristabice.com//public_html/DGM3760/" local="131550976984271042" remote="131565877800000000" Dst="1" />
+<file name="MultiplePcreFilterIterator.php" server="kristabice.com//public_html/DGM3760/" local="131550976984631456" remote="131565877800000000" Dst="1" />
+<file name="FileTypeFilterIterator.php" server="kristabice.com//public_html/DGM3760/" local="131550976983730977" remote="131565877800000000" Dst="1" />
+<file name="FilterIterator.php" server="kristabice.com//public_html/DGM3760/" local="131550976984321496" remote="131565877800000000" Dst="1" />
+<file name="RecursiveDirectoryIterator.php" server="kristabice.com//public_html/DGM3760/" local="131550976985923013" remote="131565877800000000" Dst="1" />
+<file name="SizeRangeFilterIterator.php" server="kristabice.com//public_html/DGM3760/" local="131550976986652748" remote="131565877800000000" Dst="1" />
+<file name="PathFilterIterator.php" server="kristabice.com//public_html/DGM3760/" local="131550976985692683" remote="131565877800000000" Dst="1" />
+<file name="SortableIterator.php" server="kristabice.com//public_html/DGM3760/" local="131550976986712754" remote="131565877800000000" Dst="1" />
 </dwsync>

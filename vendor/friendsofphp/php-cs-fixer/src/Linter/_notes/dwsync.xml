@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="Linter.php" server="kristabice.com//public_html/DGM3760/" local="131563720109972300" remote="131565034800000000" Dst="1" />
-<file name="LinterInterface.php" server="kristabice.com//public_html/DGM3760/" local="131563720109972300" remote="131565034800000000" Dst="1" />
-<file name="LintingException.php" server="kristabice.com//public_html/DGM3760/" local="131563720109982330" remote="131565034800000000" Dst="1" />
-<file name="LintingResultInterface.php" server="kristabice.com//public_html/DGM3760/" local="131563720109982330" remote="131565034800000000" Dst="1" />
-<file name="ProcessLinter.php" server="kristabice.com//public_html/DGM3760/" local="131563720109992354" remote="131565034800000000" Dst="1" />
-<file name="ProcessLinterProcessBuilder.php" server="kristabice.com//public_html/DGM3760/" local="131563720109992354" remote="131565034800000000" Dst="1" />
-<file name="TokenizerLinter.php" server="kristabice.com//public_html/DGM3760/" local="131563720110002383" remote="131565034800000000" Dst="1" />
-<file name="TokenizerLintingResult.php" server="kristabice.com//public_html/DGM3760/" local="131563720110002383" remote="131565034800000000" Dst="1" />
-<file name="ProcessLintingResult.php" server="kristabice.com//public_html/DGM3760/" local="131563720109992354" remote="131565034800000000" Dst="1" />
-<file name="UnavailableLinterException.php" server="kristabice.com//public_html/DGM3760/" local="131563720110002383" remote="131565034800000000" Dst="1" />
+<file name="Linter.php" server="kristabice.com//public_html/DGM3760/" local="131563720109972300" remote="131565863400000000" Dst="1" />
+<file name="LinterInterface.php" server="kristabice.com//public_html/DGM3760/" local="131563720109972300" remote="131565863400000000" Dst="1" />
+<file name="LintingException.php" server="kristabice.com//public_html/DGM3760/" local="131563720109982330" remote="131565863400000000" Dst="1" />
+<file name="LintingResultInterface.php" server="kristabice.com//public_html/DGM3760/" local="131563720109982330" remote="131565863400000000" Dst="1" />
+<file name="ProcessLinter.php" server="kristabice.com//public_html/DGM3760/" local="131563720109992354" remote="131565863400000000" Dst="1" />
+<file name="ProcessLinterProcessBuilder.php" server="kristabice.com//public_html/DGM3760/" local="131563720109992354" remote="131565863400000000" Dst="1" />
+<file name="TokenizerLinter.php" server="kristabice.com//public_html/DGM3760/" local="131563720110002383" remote="131565863400000000" Dst="1" />
+<file name="TokenizerLintingResult.php" server="kristabice.com//public_html/DGM3760/" local="131563720110002383" remote="131565863400000000" Dst="1" />
+<file name="ProcessLintingResult.php" server="kristabice.com//public_html/DGM3760/" local="131563720109992354" remote="131565863400000000" Dst="1" />
+<file name="UnavailableLinterException.php" server="kristabice.com//public_html/DGM3760/" local="131563720110002383" remote="131565863400000000" Dst="1" />
 </dwsync>

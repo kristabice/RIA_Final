@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="AbstractChunkOutputBuilder.php" server="kristabice.com//public_html/DGM3760/" local="131563720035844862" remote="131565037800000000" Dst="1" />
-<file name="DiffOnlyOutputBuilder.php" server="kristabice.com//public_html/DGM3760/" local="131563720035844862" remote="131565037800000000" Dst="1" />
-<file name="DiffOutputBuilderInterface.php" server="kristabice.com//public_html/DGM3760/" local="131563720035854891" remote="131565037800000000" Dst="1" />
-<file name="UnifiedDiffOutputBuilder.php" server="kristabice.com//public_html/DGM3760/" local="131563720035854891" remote="131565037800000000" Dst="1" />
+<file name="AbstractChunkOutputBuilder.php" server="kristabice.com//public_html/DGM3760/" local="131563720035844862" remote="131565867000000000" Dst="1" />
+<file name="DiffOnlyOutputBuilder.php" server="kristabice.com//public_html/DGM3760/" local="131563720035844862" remote="131565867000000000" Dst="1" />
+<file name="DiffOutputBuilderInterface.php" server="kristabice.com//public_html/DGM3760/" local="131563720035854891" remote="131565867000000000" Dst="1" />
+<file name="UnifiedDiffOutputBuilder.php" server="kristabice.com//public_html/DGM3760/" local="131563720035854891" remote="131565867000000000" Dst="1" />
 </dwsync>

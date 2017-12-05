@@ -1,5 +1,5 @@
 <?php
-
+session_start();
 $temp_id = $_GET['id'];
 
 require_once('variables.php');

@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="AggregateServiceProvider.php" server="kristabice.com//public_html/DGM3760/" local="131550976895582373" remote="131565036600000000" Dst="1" />
-<file name="Arr.php" server="kristabice.com//public_html/DGM3760/" local="131550976895852386" remote="131565036600000000" Dst="1" />
-<file name="Carbon.php" server="kristabice.com//public_html/DGM3760/" local="131550976895912534" remote="131565036600000000" Dst="1" />
-<file name="composer.json" server="kristabice.com//public_html/DGM3760/" local="131550976909963202" remote="131565036600000000" Dst="1" />
-<file name="Composer.php" server="kristabice.com//public_html/DGM3760/" local="131550976896782438" remote="131565036600000000" Dst="1" />
-<file name="Collection.php" server="kristabice.com//public_html/DGM3760/" local="131550976896272415" remote="131565036600000000" Dst="1" />
-<file name="Fluent.php" server="kristabice.com//public_html/DGM3760/" local="131550976904872998" remote="131565036600000000" Dst="1" />
-<file name="helpers.php" server="kristabice.com//public_html/DGM3760/" local="131550976910273290" remote="131565036600000000" Dst="1" />
-<file name="HigherOrderCollectionProxy.php" server="kristabice.com//public_html/DGM3760/" local="131550976905293399" remote="131565036600000000" Dst="1" />
-<file name="HigherOrderTapProxy.php" server="kristabice.com//public_html/DGM3760/" local="131550976905342938" remote="131565036600000000" Dst="1" />
-<file name="HtmlString.php" server="kristabice.com//public_html/DGM3760/" local="131550976905392941" remote="131565036600000000" Dst="1" />
-<file name="InteractsWithTime.php" server="kristabice.com//public_html/DGM3760/" local="131550976905612936" remote="131565036600000000" Dst="1" />
-<file name="Manager.php" server="kristabice.com//public_html/DGM3760/" local="131550976905652957" remote="131565036600000000" Dst="1" />
-<file name="MessageBag.php" server="kristabice.com//public_html/DGM3760/" local="131550976906042973" remote="131565036600000000" Dst="1" />
-<file name="NamespacedItemResolver.php" server="kristabice.com//public_html/DGM3760/" local="131550976906083033" remote="131565036600000000" Dst="1" />
-<file name="Optional.php" server="kristabice.com//public_html/DGM3760/" local="131550976906483457" remote="131565036600000000" Dst="1" />
-<file name="Pluralizer.php" server="kristabice.com//public_html/DGM3760/" local="131550976906703061" remote="131565036600000000" Dst="1" />
-<file name="ServiceProvider.php" server="kristabice.com//public_html/DGM3760/" local="131550976906753035" remote="131565036600000000" Dst="1" />
-<file name="Str.php" server="kristabice.com//public_html/DGM3760/" local="131550976906993031" remote="131565036600000000" Dst="1" />
-<file name="ViewErrorBag.php" server="kristabice.com//public_html/DGM3760/" local="131550976909843503" remote="131565036600000000" Dst="1" />
+<file name="AggregateServiceProvider.php" server="kristabice.com//public_html/DGM3760/" local="131550976895582373" remote="131565865200000000" Dst="1" />
+<file name="Arr.php" server="kristabice.com//public_html/DGM3760/" local="131550976895852386" remote="131565865200000000" Dst="1" />
+<file name="Carbon.php" server="kristabice.com//public_html/DGM3760/" local="131550976895912534" remote="131565865200000000" Dst="1" />
+<file name="composer.json" server="kristabice.com//public_html/DGM3760/" local="131550976909963202" remote="131565865200000000" Dst="1" />
+<file name="Composer.php" server="kristabice.com//public_html/DGM3760/" local="131550976896782438" remote="131565865200000000" Dst="1" />
+<file name="Collection.php" server="kristabice.com//public_html/DGM3760/" local="131550976896272415" remote="131565865200000000" Dst="1" />
+<file name="Fluent.php" server="kristabice.com//public_html/DGM3760/" local="131550976904872998" remote="131565865200000000" Dst="1" />
+<file name="helpers.php" server="kristabice.com//public_html/DGM3760/" local="131550976910273290" remote="131565865200000000" Dst="1" />
+<file name="HigherOrderCollectionProxy.php" server="kristabice.com//public_html/DGM3760/" local="131550976905293399" remote="131565865200000000" Dst="1" />
+<file name="HigherOrderTapProxy.php" server="kristabice.com//public_html/DGM3760/" local="131550976905342938" remote="131565865200000000" Dst="1" />
+<file name="HtmlString.php" server="kristabice.com//public_html/DGM3760/" local="131550976905392941" remote="131565865200000000" Dst="1" />
+<file name="InteractsWithTime.php" server="kristabice.com//public_html/DGM3760/" local="131550976905612936" remote="131565865200000000" Dst="1" />
+<file name="Manager.php" server="kristabice.com//public_html/DGM3760/" local="131550976905652957" remote="131565865200000000" Dst="1" />
+<file name="MessageBag.php" server="kristabice.com//public_html/DGM3760/" local="131550976906042973" remote="131565865200000000" Dst="1" />
+<file name="NamespacedItemResolver.php" server="kristabice.com//public_html/DGM3760/" local="131550976906083033" remote="131565865200000000" Dst="1" />
+<file name="Optional.php" server="kristabice.com//public_html/DGM3760/" local="131550976906483457" remote="131565865200000000" Dst="1" />
+<file name="Pluralizer.php" server="kristabice.com//public_html/DGM3760/" local="131550976906703061" remote="131565865200000000" Dst="1" />
+<file name="ServiceProvider.php" server="kristabice.com//public_html/DGM3760/" local="131550976906753035" remote="131565865200000000" Dst="1" />
+<file name="Str.php" server="kristabice.com//public_html/DGM3760/" local="131550976906993031" remote="131565865200000000" Dst="1" />
+<file name="ViewErrorBag.php" server="kristabice.com//public_html/DGM3760/" local="131550976909843503" remote="131565865200000000" Dst="1" />
 </dwsync>
